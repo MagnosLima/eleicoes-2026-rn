@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111027"/>
+      <stop offset="0.56" stop-color="#292066"/>
+      <stop offset="1" stop-color="#164f68"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c4dff"/>
+      <stop offset="1" stop-color="#36d6d0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <g opacity="0.1" stroke="#ffffff">
+    <path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M0 450H1200M0 540H1200"/>
+    <path d="M100 0V630M200 0V630M300 0V630M400 0V630M500 0V630M600 0V630M700 0V630M800 0V630M900 0V630M1000 0V630M1100 0V630"/>
+  </g>
+  <circle cx="1000" cy="265" r="330" fill="url(#glow)"/>
+  <path d="M780 0h420v630H630z" fill="#38bdf8" opacity="0.08"/>
+  <rect x="68" y="64" width="72" height="72" rx="20" fill="url(#accent)"/>
+  <text x="104" y="110" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">RN</text>
+  <text x="158" y="107" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Eleições 2026</text>
+  <rect x="68" y="174" width="400" height="43" rx="21.5" fill="#ffffff" opacity="0.09" stroke="#ffffff" stroke-opacity="0.25"/>
+  <text x="87" y="202" fill="#83fff0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.5">GUIA ELEITORAL · RIO GRANDE DO NORTE</text>
+  <text x="68" y="303" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="800">Todos os candidatos,</text>
+  <text x="68" y="378" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="800">em um só lugar.</text>
+  <text x="70" y="434" fill="#d7d8e7" font-family="Segoe UI, Arial, sans-serif" font-size="24">Presidente · Governador · Senador · Deputados</text>
+  <rect x="68" y="494" width="500" height="70" rx="20" fill="#ffffff" opacity="0.09" stroke="#ffffff" stroke-opacity="0.2"/>
+  <circle cx="105" cy="529" r="8" fill="#43e7cf"/>
+  <text x="128" y="523" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Projeto independente</text>
+  <text x="128" y="548" fill="#c7cae1" font-family="Segoe UI, Arial, sans-serif" font-size="16">Atualização automática · fonte: TSE</text>
+  <image href="mapa-bandeira-rn.svg" x="760" y="145" width="380" height="330" preserveAspectRatio="xMidYMid meet"/>
+  <text x="950" y="548" text-anchor="middle" fill="#ffffff" opacity="0.48" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="900" letter-spacing="8">RN</text>
+</svg>

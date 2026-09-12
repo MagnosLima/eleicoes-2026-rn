@@ -8,6 +8,8 @@ Guia eleitoral independente que reúne, em uma interface acessível e responsiva
 
 **[Acessar a demonstração](https://candidatos-rn-2026.netlify.app/)**
 
+![Prévia do guia Candidatos 2026 — Rio Grande do Norte](assets/og-eleicoes-2026-rn.png)
+
 ## Recursos
 
 - Busca por nome, número, partido, coligação ou vice.
