@@ -2,6 +2,7 @@
 
 [![Site no ar](https://img.shields.io/badge/site-no%20ar-00c7b7?style=for-the-badge&logo=netlify&logoColor=white)](https://candidatos-rn-2026.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a46246a2-ed1b-4586-a43a-e2ddc5b65e91/deploy-status)](https://app.netlify.com/projects/candidatos-rn-2026/deploys)
+[![Atualizar candidaturas](https://github.com/MagnosLima/eleicoes-2026-rn/actions/workflows/atualizar-candidatos.yml/badge.svg)](https://github.com/MagnosLima/eleicoes-2026-rn/actions/workflows/atualizar-candidatos.yml)
 
 Guia eleitoral independente que reúne, em uma interface acessível e responsiva, as candidaturas à Presidência da República e aos cargos do Rio Grande do Norte nas Eleições 2026.
 
