@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-09-12T21:20:08.496Z",
-  "sourceGeneratedAt": "12/09/2026 16:30:09",
+  "fetchedAt": "2026-09-12T23:13:01.138Z",
+  "sourceGeneratedAt": "12/09/2026 19:30:40",
   "sourceMode": "DivulgaCand",
   "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026",
   "counts": {
@@ -39,9 +39,9 @@
       "v": "CLEUSA SANTOS",
       "vp": "PCB",
       "ig": [
+        "https://www.instagram.com/PCBPARTIDAO",
         "https://www.instagram.com/JORNALOPODERPOPULAR",
-        "https://www.instagram.com/EDPCB/",
-        "https://www.instagram.com/PCBPARTIDAO"
+        "https://www.instagram.com/EDPCB/"
       ]
     },
     {
@@ -138,13 +138,13 @@
       "v": "CORONEL MEDINA",
       "vp": "MISSÃO",
       "ig": [
-        "https://www.instagram.com/jaguatiricahub/",
+        "https://www.instagram.com/renanvote14",
         "https://www.instagram.com/multiversoamarelo/",
         "https://www.instagram.com/renansantosmbl/",
-        "https://www.instagram.com/nextfragments/",
+        "https://www.instagram.com/jaguatiricahub/",
         "https://www.instagram.com/oncaviral/",
-        "https://www.instagram.com/blackjaguarsquad/",
-        "https://www.instagram.com/renanvote14"
+        "https://www.instagram.com/nextfragments/",
+        "https://www.instagram.com/blackjaguarsquad/"
       ]
     },
     {
@@ -208,12 +208,12 @@
       "v": "SUÊD HAIDAR",
       "vp": "DEMOCRATA",
       "ig": [
-        "https://www.instagram.com/CACHORREIROSDESAOPAULO/",
-        "https://www.instagram.com/GATEIROSDABAHIA/",
-        "https://www.instagram.com/WILSONGRASSIGUARULHOS/",
-        "https://www.instagram.com/GATEIROSDESAOPAULO/",
+        "https://www.instagram.com/WWGRASSI/",
         "https://www.instagram.com/VETERINARIOWILSONGRASSIOFICIAL/",
-        "https://www.instagram.com/WWGRASSI/"
+        "https://www.instagram.com/GATEIROSDESAOPAULO/",
+        "https://www.instagram.com/CACHORREIROSDESAOPAULO/",
+        "https://www.instagram.com/WILSONGRASSIGUARULHOS/",
+        "https://www.instagram.com/GATEIROSDABAHIA/"
       ]
     },
     {
@@ -245,8 +245,8 @@
       "v": "HERMANO",
       "vp": "MDB",
       "ig": [
-        "https://instagram.com/NATALQUEACREDITA",
         "https://www.instagram.com/ALLYSONBEZERRA.RN",
+        "https://instagram.com/NATALQUEACREDITA",
         "https://instagram.com/167RAZOESRN"
       ]
     },
@@ -325,8 +325,8 @@
       "v": "FERNANDA SOARES",
       "vp": "PSTU",
       "ig": [
-        "https://www.instagram.com/DARIOBARBOSAPSTU?IGSH=MTRPBHPTOG9ZA3B6BQ==",
-        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
+        "https://www.instagram.com/DARIOBARBOSAPSTU?IGSH=MTRPBHPTOG9ZA3B6BQ=="
       ]
     },
     {
@@ -477,8 +477,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002542483_div.jpg",
       "ig": [
-        "https://www.instagram.com/ROSALIAPSTU16?IGSH=MWP2CWXRDZUYNNPTDA==",
-        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
+        "https://www.instagram.com/ROSALIAPSTU16?IGSH=MWP2CWXRDZUYNNPTDA=="
       ]
     },
     {
@@ -683,8 +683,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547277_div.jpg",
       "ig": [
-        "https://www.instagram.com/anaclaragurgel14",
-        "https://www.instagram.com/anaclaragurgel14?igsi=dWVobnAxNG5pbmti&utm_source=qr"
+        "https://www.instagram.com/anaclaragurgel14?igsi=dWVobnAxNG5pbmti&utm_source=qr",
+        "https://www.instagram.com/anaclaragurgel14"
       ]
     },
     {
@@ -950,9 +950,9 @@
       "uf": "RN",
       "photo": "fotos/FRN200002546775_div.jpg",
       "ig": [
-        "https://www.instagram.com/DEBORAHSUELLEN28?IGSH=MWV3Z2M1M2XHC3Z4ZW==",
         "https://www.instagram.com/STUDIODEBORAHSUELLEN?IGSH=MWPSNGZRNW80ZHC2DQ==",
-        "https://www.instagram.com/DEBORAHSUELLEN21?IGSH=MTDPZJHYADFVAJFXMW=="
+        "https://www.instagram.com/DEBORAHSUELLEN21?IGSH=MTDPZJHYADFVAJFXMW==",
+        "https://www.instagram.com/DEBORAHSUELLEN28?IGSH=MWV3Z2M1M2XHC3Z4ZW=="
       ]
     },
     {
@@ -1102,10 +1102,10 @@
       "uf": "RN",
       "photo": "fotos/FRN200002535716_div.jpg",
       "ig": [
+        "https://www.instagram.com/FNNEWS_BR?IGSH=MTN2ZHJSCTAYC295MG==",
         "https://www.instagram.com/FAUSTINOBR_",
-        "https://www.instagram.com/FAUSTINORN?IGSH=MTCZNNVUANJZCXM5BQ==",
         "https://www.instagram.com/FAUSTINOBR_?IGSH=MXRUOWPSMDI5ZGNV",
-        "https://www.instagram.com/FNNEWS_BR?IGSH=MTN2ZHJSCTAYC295MG=="
+        "https://www.instagram.com/FAUSTINORN?IGSH=MTCZNNVUANJZCXM5BQ=="
       ]
     },
     {
@@ -1119,8 +1119,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547279_div.jpg",
       "ig": [
-        "https://instagram.com/felixsantos.rn",
-        "https://www.instagram.com/FELIXSANTOS.RN?IGSH=ZWQXCGRZNHP6CNJ2"
+        "https://www.instagram.com/FELIXSANTOS.RN?IGSH=ZWQXCGRZNHP6CNJ2",
+        "https://instagram.com/felixsantos.rn"
       ]
     },
     {
@@ -1189,8 +1189,8 @@
       "photo": "fotos/FRN200002547283_div.jpg",
       "ig": [
         "https://www.instagram.com/GABRIELBOTELHORN?IGSH=MW4ZA2JXDMTQADG3MG%3D%3D&UTM_SOURCE=QR",
-        "https://www.instagram.com/botelhocortes/",
-        "https://instagram.com/gabrielbotelhorn"
+        "https://instagram.com/gabrielbotelhorn",
+        "https://www.instagram.com/botelhocortes/"
       ]
     },
     {
@@ -1286,8 +1286,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547280_div.jpg",
       "ig": [
-        "https://www.instagram.com/igorrayanrn?igsi=NXdvNXBweGl2d213&utm_source=qr",
-        "https://instagram.com/igorrayanrn"
+        "https://instagram.com/igorrayanrn",
+        "https://www.instagram.com/igorrayanrn?igsi=NXdvNXBweGl2d213&utm_source=qr"
       ]
     },
     {
@@ -1563,7 +1563,7 @@
     },
     {
       "c": "Deputado federal",
-      "n": "NINA SOUZA",
+      "n": "NINA",
       "p": "PL",
       "num": "2233",
       "s": "Deferido",
@@ -1614,9 +1614,9 @@
       "uf": "RN",
       "photo": "fotos/FRN200002551425_div.jpg",
       "ig": [
-        "https://www.instagram.com/fuxiquinhofc_?igsh=cW1qeHA2dXZ0NzRu",
+        "https://www.instagram.com/fuxiquinhoreserva?igsh=MTJ4aGJleGN1MHdkZg==",
         "https://www.instagram.com/circodofuxiquinho?igsh=MW5oNXYyZ2gyenY0bw==",
-        "https://www.instagram.com/fuxiquinhoreserva?igsh=MTJ4aGJleGN1MHdkZg=="
+        "https://www.instagram.com/fuxiquinhofc_?igsh=cW1qeHA2dXZ0NzRu"
       ]
     },
     {
@@ -1789,8 +1789,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002546765_div.jpg",
       "ig": [
-        "https://www.instagram.com/SAMELATERAPEUTADEMULHERES",
         "https://www.instagram.com/SAMELAGOMESOFICIAL",
+        "https://www.instagram.com/SAMELATERAPEUTADEMULHERES",
         "https://www.instagram.com/SAMELAGOMES_TERAPEUTA"
       ]
     },
@@ -2023,8 +2023,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547281_div.jpg",
       "ig": [
-        "https://www.instagram.com/vivianeavelinorn?igsi=MTdkM-md0dWkzY2Viaw%3D%3D&utm_source=qr",
-        "https://instagram.com/vivianeavelinorn"
+        "https://instagram.com/vivianeavelinorn",
+        "https://www.instagram.com/vivianeavelinorn?igsi=MTdkM-md0dWkzY2Viaw%3D%3D&utm_source=qr"
       ]
     },
     {
@@ -2062,8 +2062,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002552144_div.jpg",
       "ig": [
-        "https://www.instagram.com/XEXEUDENATALL/",
-        "https://www.instagram.com/XEXEUDENATAL/"
+        "https://www.instagram.com/XEXEUDENATAL/",
+        "https://www.instagram.com/XEXEUDENATALL/"
       ]
     },
     {
@@ -2641,8 +2641,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002534349_div.jpg",
       "ig": [
-        "https://www.instagram.com/MILANOMAXIMO?IGSH=CHLUBWPSAMPLMGJW&UTM_SOURCE=QR",
-        "https://www.instagram.com/DRMILANOMAXIMO?IGSH=MTD3DXLRDNHXM2P2BG%3D%3D&UTM_SOURC"
+        "https://www.instagram.com/DRMILANOMAXIMO?IGSH=MTD3DXLRDNHXM2P2BG%3D%3D&UTM_SOURC",
+        "https://www.instagram.com/MILANOMAXIMO?IGSH=CHLUBWPSAMPLMGJW&UTM_SOURCE=QR"
       ]
     },
     {
@@ -2698,9 +2698,9 @@
       "uf": "RN",
       "photo": "fotos/FRN200002538231_div.jpg",
       "ig": [
-        "https://www.instagram.com/DOUTORATATI_COSTA/",
         "https://www.instagram.com/dra.tatianecosta.oficial",
-        "https://www.instagram.com/dra.tatianecosta.oficial?stkn=cXAxd2Fub3VuOHE0"
+        "https://www.instagram.com/dra.tatianecosta.oficial?stkn=cXAxd2Fub3VuOHE0",
+        "https://www.instagram.com/DOUTORATATI_COSTA/"
       ]
     },
     {
@@ -3309,8 +3309,8 @@
       "photo": "fotos/FRN200002535726_div.jpg",
       "ig": [
         "https://www.instagram.com/TIMEJULIOCESAR?IGSH=ZZB5DDFLAJE1NWN3",
-        "https://www.instagram.com/EUSOUJULIOCESARCAMARARN?IGSH=MXBKAWZRNM5KA3FWZQ==",
-        "https://www.instagram.com/CHANNEL/ABYMTPEGDR7YEOV4/"
+        "https://www.instagram.com/CHANNEL/ABYMTPEGDR7YEOV4/",
+        "https://www.instagram.com/EUSOUJULIOCESARCAMARARN?IGSH=MXBKAWZRNM5KA3FWZQ=="
       ]
     },
     {
@@ -3462,8 +3462,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002548557_div.jpg",
       "ig": [
-        "https://www.instagram.com/LOURENCOCAPRI?IGSH=Z3U1DMVVDWROAMJ4",
-        "https://www.instagram.com/lourenco50100"
+        "https://www.instagram.com/lourenco50100",
+        "https://www.instagram.com/LOURENCOCAPRI?IGSH=Z3U1DMVVDWROAMJ4"
       ]
     },
     {
@@ -3839,8 +3839,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002542489_div.jpg",
       "ig": [
-        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
-        "https://www.instagram.com/ANACELIA_SIQUEIRA?IGSH=MWRMB3RKNMROOGH6DA=="
+        "https://www.instagram.com/ANACELIA_SIQUEIRA?IGSH=MWRMB3RKNMROOGH6DA==",
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
       ]
     },
     {
@@ -4003,8 +4003,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002533852_div.jpg",
       "ig": [
-        "https://www.instagram.com/POLITICASDORN?UTM_SOURCE=QR&IGSH=MXM5OWS0CMJRE%20DJKDQ%3",
-        "https://www.instagram.com/RONNY.HOLANDA?UTM_SOURCE=QR&IGSH=OHBWM2VRYJLND3%20JL"
+        "https://www.instagram.com/RONNY.HOLANDA?UTM_SOURCE=QR&IGSH=OHBWM2VRYJLND3%20JL",
+        "https://www.instagram.com/POLITICASDORN?UTM_SOURCE=QR&IGSH=MXM5OWS0CMJRE%20DJKDQ%3"
       ]
     },
     {
@@ -4116,8 +4116,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002542490_div.jpg",
       "ig": [
-        "https://www.instagram.com/TIAGOPSTU16?IGSH=MW5HNDR0MDEYNJFYMG==",
-        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
+        "https://www.instagram.com/TIAGOPSTU16?IGSH=MW5HNDR0MDEYNJFYMG=="
       ]
     },
     {
