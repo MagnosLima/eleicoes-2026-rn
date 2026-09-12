@@ -1,0 +1,4220 @@
+{
+  "schemaVersion": 1,
+  "fetchedAt": "2026-09-12T02:03:54.888Z",
+  "sourceGeneratedAt": "11/09/2026 19:31:05",
+  "sourceMode": "DivulgaCand",
+  "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026",
+  "counts": {
+    "Presidente": 13,
+    "Governador": 9,
+    "Senador": 14,
+    "Deputado federal": 111,
+    "Deputado estadual": 154
+  },
+  "candidates": [
+    {
+      "c": "Presidente",
+      "n": "CLARIANA BARAO",
+      "p": "DC",
+      "num": "27",
+      "s": "Deferido",
+      "col": "DC",
+      "id": "280002552484",
+      "uf": "BR",
+      "photo": "fotos/FBR280002552484_div.jpg",
+      "v": "FABIANA TORQUATO",
+      "vp": "DC",
+      "ig": []
+    },
+    {
+      "c": "Presidente",
+      "n": "EDMILSON COSTA",
+      "p": "PCB",
+      "num": "21",
+      "s": "Deferido",
+      "col": "PCB",
+      "id": "280002551975",
+      "uf": "BR",
+      "photo": "fotos/FBR280002551975_div.jpg",
+      "v": "CLEUSA SANTOS",
+      "vp": "PCB",
+      "ig": [
+        "https://www.instagram.com/JORNALOPODERPOPULAR",
+        "https://www.instagram.com/EDPCB/",
+        "https://www.instagram.com/PCBPARTIDAO"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "ESCRITOR AUGUSTO CURY",
+      "p": "AVANTE",
+      "num": "70",
+      "s": "Aguardando julgamento",
+      "col": "BRASIL DOS NOSSOS SONHOS",
+      "id": "280002551547",
+      "uf": "BR",
+      "photo": "fotos/FBR280002551547_div.jpg",
+      "v": "JÚLIO DELGADO",
+      "vp": "AVANTE",
+      "ig": [
+        "https://instagram.com/AUGUSTOCURY"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "FLAVIO BOLSONARO",
+      "p": "PL",
+      "num": "22",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "280002551544",
+      "uf": "BR",
+      "photo": "fotos/FBR280002551544_div.jpg",
+      "v": "ALFREDO GASPAR",
+      "vp": "PL",
+      "ig": [
+        "https://www.instagram.com/FLAVIOBOLSONARO/"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "HERTZ DIAS",
+      "p": "PSTU",
+      "num": "16",
+      "s": "Deferido",
+      "col": "PSTU",
+      "id": "280002541457",
+      "uf": "BR",
+      "photo": "fotos/FBR280002541457_div.jpg",
+      "v": "VANESSA PORTUGAL",
+      "vp": "PSTU",
+      "ig": [
+        "https://www.instagram.com/hertzdiaspstu?igsi=MXhhZmVxbDN1bHRmOA=="
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "LULA",
+      "p": "PT",
+      "num": "13",
+      "s": "Deferido",
+      "col": "BRASIL PRONTO PRA MAIS",
+      "id": "280002542548",
+      "uf": "BR",
+      "photo": "fotos/FBR280002542548_div.jpg",
+      "v": "GERALDO ALCKMIN",
+      "vp": "PSB",
+      "ig": [
+        "https://instagram.com/BRASILCOMLULA",
+        "https://www.instagram.com/LULAOFICIAL?IGSH=NGRIZTRVMND4ZTJS"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "PABLO MARÇAL",
+      "p": "PRTB",
+      "num": "28",
+      "s": "Aguardando julgamento",
+      "col": "PRTB",
+      "id": "280002553884",
+      "uf": "BR",
+      "photo": "fotos/FBR280002553884_div.jpg",
+      "v": "LEONARDO AVALANCHE",
+      "vp": "PRTB",
+      "ig": [
+        "https://www.instagram.com/pablomarcal1/?hl=pt-br"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "RENAN SANTOS",
+      "p": "MISSÃO",
+      "num": "14",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "280002540694",
+      "uf": "BR",
+      "photo": "fotos/FBR280002540694_div.jpg",
+      "v": "CORONEL MEDINA",
+      "vp": "MISSÃO",
+      "ig": [
+        "https://www.instagram.com/blackjaguarsquad/",
+        "https://www.instagram.com/oncaviral/",
+        "https://www.instagram.com/renanvote14",
+        "https://www.instagram.com/nextfragments/",
+        "https://www.instagram.com/jaguatiricahub/",
+        "https://www.instagram.com/multiversoamarelo/",
+        "https://www.instagram.com/renansantosmbl/"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "RONALDO CAIADO",
+      "p": "PSD",
+      "num": "55",
+      "s": "Deferido",
+      "col": "PSD",
+      "id": "280002551932",
+      "uf": "BR",
+      "photo": "fotos/FBR280002551932_div.jpg",
+      "v": "GILBERTO KASSAB",
+      "vp": "PSD",
+      "ig": [
+        "https://www.instagram.com/RONALDOCAIADO/"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "RUI COSTA PIMENTA",
+      "p": "PCO",
+      "num": "29",
+      "s": "Deferido",
+      "col": "PCO",
+      "id": "280002552487",
+      "uf": "BR",
+      "photo": "fotos/FBR280002552487_div.jpg",
+      "v": "ANTÔNIO CARLOS",
+      "vp": "PCO",
+      "ig": [
+        "https://www.instagram.com/ruicpimenta/"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "SAMARA",
+      "p": "UP",
+      "num": "80",
+      "s": "Deferido",
+      "col": "UP",
+      "id": "280002538811",
+      "uf": "BR",
+      "photo": "fotos/FBR280002538811_div.jpg",
+      "v": "RAQUEL BRÍCIO",
+      "vp": "UP",
+      "ig": [
+        "https://www.instagram.com/samaramartinsup?igsi=MXFuaHczMWV5bDJwMA=="
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "VETERINÁRIO WILSON GRASSI",
+      "p": "DEMOCRATA",
+      "num": "35",
+      "s": "Deferido",
+      "col": "DEMOCRATA",
+      "id": "280002548139",
+      "uf": "BR",
+      "photo": "fotos/FBR280002548139_div.jpg",
+      "v": "SUÊD HAIDAR",
+      "vp": "DEMOCRATA",
+      "ig": [
+        "https://www.instagram.com/GATEIROSDESAOPAULO/",
+        "https://www.instagram.com/CACHORREIROSDESAOPAULO/",
+        "https://www.instagram.com/GATEIROSDABAHIA/",
+        "https://www.instagram.com/WILSONGRASSIGUARULHOS/",
+        "https://www.instagram.com/VETERINARIOWILSONGRASSIOFICIAL/",
+        "https://www.instagram.com/WWGRASSI/"
+      ]
+    },
+    {
+      "c": "Presidente",
+      "n": "ZEMA",
+      "p": "NOVO",
+      "num": "30",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "280002539826",
+      "uf": "BR",
+      "photo": "fotos/FBR280002539826_div.jpg",
+      "v": "EDUARDO GIRÃO",
+      "vp": "NOVO",
+      "ig": [
+        "https://www.instagram.com/ROMEUZEMAOFICIAL"
+      ]
+    },
+    {
+      "c": "Governador",
+      "n": "ALLYSON",
+      "p": "UNIÃO",
+      "num": "44",
+      "s": "Deferido",
+      "col": "ESPERANÇA E TRABALHO",
+      "id": "200002535255",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535255_div.jpg",
+      "v": "HERMANO",
+      "vp": "MDB",
+      "ig": [
+        "https://www.instagram.com/ALLYSONBEZERRA.RN",
+        "https://instagram.com/NATALQUEACREDITA",
+        "https://instagram.com/167RAZOESRN"
+      ]
+    },
+    {
+      "c": "Governador",
+      "n": "ÁLVARO DIAS",
+      "p": "PL",
+      "num": "22",
+      "s": "Deferido",
+      "col": "ENDIREITA RN",
+      "id": "200002534442",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534442_div.jpg",
+      "v": "BABÁ",
+      "vp": "PL",
+      "ig": [
+        "https://www.instagram.com/ALVARODIASRN/"
+      ]
+    },
+    {
+      "c": "Governador",
+      "n": "ARINALDA DO MLB",
+      "p": "UP",
+      "num": "80",
+      "s": "Deferido",
+      "col": "UP",
+      "id": "200002547826",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547826_div.jpg",
+      "v": "FRANCISCO DIAS",
+      "vp": "UP",
+      "ig": []
+    },
+    {
+      "c": "Governador",
+      "n": "CADU DE LULA",
+      "p": "PT",
+      "num": "13",
+      "s": "Deferido",
+      "col": "TIME QUE CUIDA",
+      "id": "200002534001",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534001_div.jpg",
+      "v": "LARISSA",
+      "vp": "PSB",
+      "ig": [
+        "https://www.instagram.com/caduxavier/"
+      ]
+    },
+    {
+      "c": "Governador",
+      "n": "CARLOS JARARACA",
+      "p": "DC",
+      "num": "27",
+      "s": "Indeferido em prazo recursal ou com recurso",
+      "col": "DC",
+      "id": "200002550223",
+      "uf": "RN",
+      "photo": "fotos/FRN200002550223_div.jpg",
+      "v": "PASTOR JÚLIO",
+      "vp": "DC",
+      "ig": [
+        "https://www.instagram.com/CARLOS_JARARACA/"
+      ]
+    },
+    {
+      "c": "Governador",
+      "n": "DÁRIO BARBOSA",
+      "p": "PSTU",
+      "num": "16",
+      "s": "Deferido",
+      "col": "PSTU",
+      "id": "200002542481",
+      "uf": "RN",
+      "photo": "fotos/FRN200002542481_div.jpg",
+      "v": "FERNANDA SOARES",
+      "vp": "PSTU",
+      "ig": [
+        "https://www.instagram.com/DARIOBARBOSAPSTU?IGSH=MTRPBHPTOG9ZA3B6BQ==",
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
+      ]
+    },
+    {
+      "c": "Governador",
+      "n": "HENRIQUE LYRA",
+      "p": "PCO",
+      "num": "29",
+      "s": "Indeferido em prazo recursal ou com recurso",
+      "col": "PCO",
+      "id": "200002553301",
+      "uf": "RN",
+      "photo": "fotos/FRN200002553301_div.jpg",
+      "v": "ANDRE GUSTAVO",
+      "vp": "PCO",
+      "ig": []
+    },
+    {
+      "c": "Governador",
+      "n": "PROFESSOR ROBERIO PAULINO",
+      "p": "PSOL",
+      "num": "50",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002546757",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546757_div.jpg",
+      "v": "LENNY GRILO",
+      "vp": "PSOL",
+      "ig": [
+        "https://www.instagram.com/PROFROBERIOPAULINO50?IGSH=MWJ2MGTINXLRN2W0EA=="
+      ]
+    },
+    {
+      "c": "Governador",
+      "n": "RODRIGO DE BOLSONARO",
+      "p": "AGIR",
+      "num": "36",
+      "s": "Deferido",
+      "col": "AGIR",
+      "id": "200002546756",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546756_div.jpg",
+      "v": "SOCORRO BATISTA",
+      "vp": "AGIR",
+      "ig": [
+        "https://www.instagram.com/RODRIGOBOLSONARORN2026?IGSH=MWDYADRXYXHHZWXOBG=="
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "CLÓVIS COSTA DO COLETIVO NÓS",
+      "p": "AGIR",
+      "num": "369",
+      "s": "Deferido",
+      "col": "AGIR",
+      "id": "200002548115",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548115_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Senador",
+      "n": "CORONEL HÉLIO",
+      "p": "PL",
+      "num": "222",
+      "s": "Deferido",
+      "col": "ENDIREITA RN",
+      "id": "200002534447",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534447_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Senador",
+      "n": "GARI WENDELL BATISTA",
+      "p": "AGIR",
+      "num": "360",
+      "s": "Deferido",
+      "col": "AGIR",
+      "id": "200002549133",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549133_div.jpg",
+      "ig": [
+        "https://www.instagram.com/WENDELLBATIST?IGSH=MXH3MDV0ZGCZBGY2NA=="
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "LINHARES JIBOIA",
+      "p": "DC",
+      "num": "277",
+      "s": "Deferido",
+      "col": "DC",
+      "id": "200002550225",
+      "uf": "RN",
+      "photo": "fotos/FRN200002550225_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Senador",
+      "n": "LUCIANA MANDU",
+      "p": "PSTU",
+      "num": "161",
+      "s": "Deferido",
+      "col": "PSTU",
+      "id": "200002542484",
+      "uf": "RN",
+      "photo": "fotos/FRN200002542484_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
+        "https://www.instagram.com/LUCIANAMANDU16?IGSH=NZJVCZZJCWLZMWNS"
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "PROFESSOR GUILHERME",
+      "p": "UP",
+      "num": "800",
+      "s": "Deferido",
+      "col": "UP",
+      "id": "200002550541",
+      "uf": "RN",
+      "photo": "fotos/FRN200002550541_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Senador",
+      "n": "RAFAEL MOTTA",
+      "p": "PDT",
+      "num": "123",
+      "s": "Deferido",
+      "col": "TIME QUE CUIDA",
+      "id": "200002533843",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533843_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RAFAELMOTTARN?IGSH=CJB2NWNYN2VRBWFZ"
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "ROSÁLIA FERNANDES",
+      "p": "PSTU",
+      "num": "166",
+      "s": "Deferido",
+      "col": "PSTU",
+      "id": "200002542483",
+      "uf": "RN",
+      "photo": "fotos/FRN200002542483_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
+        "https://www.instagram.com/ROSALIAPSTU16?IGSH=MWP2CWXRDZUYNNPTDA=="
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "SAMANDA DE LULA",
+      "p": "PT",
+      "num": "131",
+      "s": "Deferido",
+      "col": "TIME QUE CUIDA",
+      "id": "200002533841",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533841_div.jpg",
+      "ig": [
+        "https://instagram.com/SAMANDA"
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "SANDRO PIMENTEL",
+      "p": "PSOL",
+      "num": "500",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002546792",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546792_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SANDROPIMENTELPSOL?IGSH=MXBZDXPTBML0Z2G3YG=="
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "SONIA GODEIRO",
+      "p": "PSOL",
+      "num": "501",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002546795",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546795_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SONIAGODEIRO?IGSH=MWZ1BZVTNXQ4ENPMBQ=="
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "STYVENSON VALENTIM",
+      "p": "PODE",
+      "num": "200",
+      "s": "Deferido",
+      "col": "ENDIREITA RN",
+      "id": "200002534448",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534448_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CAPITAOSTYVENSONSENADOR?IGSH=DDCZNM14YNDTYMY3",
+        "https://www.instagram.com/SENADORSTYVENSONVALENTIM?IGSH=MWJ6BHRSZGZXDDDWNG=="
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "TÉRCIO TINÔCO",
+      "p": "UNIÃO",
+      "num": "444",
+      "s": "Deferido",
+      "col": "ESPERANÇA E TRABALHO",
+      "id": "200002535511",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535511_div.jpg",
+      "ig": [
+        "https://www.instagram.com/TERCIOTINOCO/"
+      ]
+    },
+    {
+      "c": "Senador",
+      "n": "ZENAIDE MAIA",
+      "p": "PSD",
+      "num": "555",
+      "s": "Deferido",
+      "col": "ESPERANÇA E TRABALHO",
+      "id": "200002535507",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535507_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DRAZENAIDE?IGSH=EGLYEDVIOTJYOGL3"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ABEL FARIAS",
+      "p": "NOVO",
+      "num": "3030",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "200002535503",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535503_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ABIMAEL COSTA",
+      "p": "MISSÃO",
+      "num": "1400",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547278",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547278_div.jpg",
+      "ig": [
+        "https://instagram.com/abimaelcostarn"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ADELITA OLIVEIRA",
+      "p": "DC",
+      "num": "2799",
+      "s": "Deferido",
+      "col": "DC",
+      "id": "200002552147",
+      "uf": "RN",
+      "photo": "fotos/FRN200002552147_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ADELITA_OLIVEIRA_OLIVEIRA/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ADRIANA ALBUQUERQUE",
+      "p": "AVANTE",
+      "num": "7077",
+      "s": "Deferido",
+      "col": "AVANTE",
+      "id": "200002551423",
+      "uf": "RN",
+      "photo": "fotos/FRN200002551423_div.jpg",
+      "ig": [
+        "https://www.instagram.com/adriana.albuquerque7?igsh=MWE4ejZ1YjIzN25y"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "AILTON RAMOS POR K",
+      "p": "PSB",
+      "num": "4010",
+      "s": "Aguardando julgamento",
+      "col": "PSB",
+      "id": "200002546752",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546752_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ALANNA BEATRIZ",
+      "p": "MISSÃO",
+      "num": "1447",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547276",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547276_div.jpg",
+      "ig": [
+        "https://instagram.com/alannabeatrizrn"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ALEX KROOS",
+      "p": "PSDB",
+      "num": "4508",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538219",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538219_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ALEXK08_?IGSH=NWLYDNLTCJZJCNDI"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ALEXANDRE RAMOS",
+      "p": "MOBILIZA",
+      "num": "3350",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549675",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549675_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ANA CLARA GURGEL",
+      "p": "MISSÃO",
+      "num": "1444",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547277",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547277_div.jpg",
+      "ig": [
+        "https://www.instagram.com/anaclaragurgel14",
+        "https://www.instagram.com/anaclaragurgel14?igsi=dWVobnAxNG5pbmti&utm_source=qr"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ANGELITA DA VILA",
+      "p": "MOBILIZA",
+      "num": "3335",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549678",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549678_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ANNE BEZERRA",
+      "p": "CIDADANIA",
+      "num": "2323",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538215",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538215_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ANNEBEZERRARN?IGSH=MXRWNG95C3JTATGWZA=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "APOLLIANE SOUZA",
+      "p": "AVANTE",
+      "num": "7010",
+      "s": "Deferido",
+      "col": "AVANTE",
+      "id": "200002551422",
+      "uf": "RN",
+      "photo": "fotos/FRN200002551422_div.jpg",
+      "ig": [
+        "https://www.instagram.com/apolliane?igsh=MWI5cGI5M3F6OHd6OA=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ARAPUÁ DE MACAU",
+      "p": "PSB",
+      "num": "4055",
+      "s": "Deferido",
+      "col": "PSB",
+      "id": "200002546749",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546749_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ATAANDRA ABRANTES",
+      "p": "PSDB",
+      "num": "4588",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538217",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538217_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "BENES LEOCÁDIO",
+      "p": "UNIÃO",
+      "num": "4444",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535722",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535722_div.jpg",
+      "ig": [
+        "https://www.instagram.com/BENESLEOCADIORN"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "BIA DO MLB",
+      "p": "UP",
+      "num": "8000",
+      "s": "Deferido",
+      "col": "UP",
+      "id": "200002548528",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548528_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "BIANCA NEGREIROS",
+      "p": "UNIÃO",
+      "num": "4445",
+      "s": "Renúncia",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535723",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535723_div.jpg",
+      "ig": [
+        "https://www.instagram.com/BIANCANEGREIROS22"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "BRISA",
+      "p": "PT",
+      "num": "1313",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533874",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533874_div.jpg",
+      "ig": [
+        "https://www.instagram.com/BRISABRACCHI13"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "CABO DEYVISON",
+      "p": "PL",
+      "num": "2288",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533879",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533879_div.jpg",
+      "ig": [
+        "https://instagram.com/@CABODEYVISON"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "CAMILA ATÍPICA",
+      "p": "NOVO",
+      "num": "3022",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "200002535506",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535506_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "CARLA DICKSON",
+      "p": "PL",
+      "num": "2211",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533876",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533876_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CARLADICKSONOFICIAL?IGSH=D3D0Z3JMAWG1DJHK&UTM_SOURCE=Q"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "CARLOS ENFERMEIRO",
+      "p": "PRD",
+      "num": "2500",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546773",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546773_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CARLOSENFERMEIRODALUTA"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "CINTIA MAIA",
+      "p": "PDT",
+      "num": "1212",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546763",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546763_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "CORONEL BRILHANTE",
+      "p": "PL",
+      "num": "2244",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533882",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533882_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CORONELBRILHANTERN?IGSH=EMKXDTVMMHGXMWN4"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "CRISTIANI ARTESÃ",
+      "p": "SOLIDARIEDADE",
+      "num": "7732",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546772",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546772_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CRISTIANIARTESA?IGSH=MWDNOW5MD3H2MJR4AG=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DANI RIBEIRO",
+      "p": "UNIÃO",
+      "num": "4400",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535718",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535718_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DANI.RIBEIRO_"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DANIEL RIZZI",
+      "p": "NOVO",
+      "num": "3055",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "200002535499",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535499_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DANIELRIZZIOF"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DAVI RODRIGUES JR.",
+      "p": "PDT",
+      "num": "1277",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546762",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546762_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DÉBORAH SUELLEN",
+      "p": "SOLIDARIEDADE",
+      "num": "7717",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546775",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546775_div.jpg",
+      "ig": [
+        "https://www.instagram.com/STUDIODEBORAHSUELLEN?IGSH=MWPSNGZRNW80ZHC2DQ==",
+        "https://www.instagram.com/DEBORAHSUELLEN21?IGSH=MTDPZJHYADFVAJFXMW==",
+        "https://www.instagram.com/DEBORAHSUELLEN28?IGSH=MWV3Z2M1M2XHC3Z4ZW=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DIRETOR DILSON LIMA",
+      "p": "NOVO",
+      "num": "3003",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "200002535504",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535504_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DILSON_LIMA.EDUCACAO"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DR DANIEL",
+      "p": "NOVO",
+      "num": "3044",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "200002535498",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535498_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DRDANIELRN"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DR. BERNARDO",
+      "p": "PV",
+      "num": "4300",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533867",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533867_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DRBERNARDORN/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DR. ESTÁCIO",
+      "p": "PDT",
+      "num": "1233",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546767",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546767_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DRESTACIO?IGSH=Z3H2AGH3MGRUN3DL"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DR. SALOMÃO",
+      "p": "MISSÃO",
+      "num": "1411",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547284",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547284_div.jpg",
+      "ig": [
+        "https://www.instagram.com/drsalomaorn"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DRA GLEUCE LEITE",
+      "p": "PSB",
+      "num": "4013",
+      "s": "Deferido",
+      "col": "PSB",
+      "id": "200002546750",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546750_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DRA ROSEMARIA",
+      "p": "PSDB",
+      "num": "4566",
+      "s": "Renúncia",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538221",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538221_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ROSEMARIA_AZEVEDO?IGSH=EXIYDHFNBJZMCDRK"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "DRA. DALILA VETERINÁRIA",
+      "p": "NOVO",
+      "num": "3033",
+      "s": "Aguardando julgamento",
+      "col": "NOVO",
+      "id": "200002535502",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535502_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DALILAGUGELVETERINARIA"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ED RODRIGUES",
+      "p": "PSOL",
+      "num": "5088",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002546797",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546797_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ED_RODRIGUES_RODRIGUES?IGSH=DZE5AM02BXH6BZDL"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ERMINIO FELIX",
+      "p": "PSB",
+      "num": "4040",
+      "s": "Deferido",
+      "col": "PSB",
+      "id": "200002546754",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546754_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "FAUSTINO",
+      "p": "UNIÃO",
+      "num": "4455",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535716",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535716_div.jpg",
+      "ig": [
+        "https://www.instagram.com/FAUSTINOBR_?IGSH=MXRUOWPSMDI5ZGNV",
+        "https://www.instagram.com/FAUSTINOBR_",
+        "https://www.instagram.com/FAUSTINORN?IGSH=MTCZNNVUANJZCXM5BQ==",
+        "https://www.instagram.com/FNNEWS_BR?IGSH=MTN2ZHJSCTAYC295MG=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "FELIX SANTOS",
+      "p": "MISSÃO",
+      "num": "1477",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547279",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547279_div.jpg",
+      "ig": [
+        "https://instagram.com/felixsantos.rn",
+        "https://www.instagram.com/FELIXSANTOS.RN?IGSH=ZWQXCGRZNHP6CNJ2"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "FLAVIO LUIZ",
+      "p": "PSDB",
+      "num": "4512",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538216",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538216_div.jpg",
+      "ig": [
+        "https://www.instagram.com/FLAVIO_LUUIZ?IGSH=BNM5MZHJY2FWD2XR"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "FRAN BARBEIRO",
+      "p": "PRD",
+      "num": "2544",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546769",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546769_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "FRED BRAGA",
+      "p": "SOLIDARIEDADE",
+      "num": "7777",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546768",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546768_div.jpg",
+      "ig": [
+        "https://www.instagram.com/FRED_BRAGA_BLOG?IGSH=MTFSYXZKY2VRCTV2DG=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "GABI TRAJANO",
+      "p": "PL",
+      "num": "2277",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533881",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533881_div.jpg",
+      "ig": [
+        "https://instagram.com/@GABITRAJANORN"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "GABRIEL BOTELHO",
+      "p": "MISSÃO",
+      "num": "1401",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547283",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547283_div.jpg",
+      "ig": [
+        "https://www.instagram.com/botelhocortes/",
+        "https://instagram.com/gabrielbotelhorn",
+        "https://www.instagram.com/GABRIELBOTELHORN?IGSH=MW4ZA2JXDMTQADG3MG%3D%3D&UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "GABRIEL NUNES",
+      "p": "AVANTE",
+      "num": "7012",
+      "s": "Deferido",
+      "col": "AVANTE",
+      "id": "200002551418",
+      "uf": "RN",
+      "photo": "fotos/FRN200002551418_div.jpg",
+      "ig": [
+        "https://www.instagram.com/gabrielnunesrn?igsh=MWVqdmNybnR4eXoxZg=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "GARIBALDE LEITE",
+      "p": "PRD",
+      "num": "2570",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546770",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546770_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GARIBALDELEITE93"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "GENERAL GIRÃO",
+      "p": "PL",
+      "num": "2210",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533875",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533875_div.jpg",
+      "ig": [
+        "https://instagram.com/@GENERALGIRAO"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "HELIA LIMA",
+      "p": "PSB",
+      "num": "4011",
+      "s": "Deferido",
+      "col": "PSB",
+      "id": "200002546751",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546751_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "HUDSON TOURINHO",
+      "p": "AVANTE",
+      "num": "7070",
+      "s": "Deferido",
+      "col": "AVANTE",
+      "id": "200002551424",
+      "uf": "RN",
+      "photo": "fotos/FRN200002551424_div.jpg",
+      "ig": [
+        "https://www.instagram.com/hudsontourinho70?igsh=MTBmZXNpem01MHpkcw=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "IGOR FERNANDES",
+      "p": "MISSÃO",
+      "num": "1441",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547282",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547282_div.jpg",
+      "ig": [
+        "https://instagram.com/igor.fernandesrn"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "IGOR RAYAN",
+      "p": "MISSÃO",
+      "num": "1455",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547280",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547280_div.jpg",
+      "ig": [
+        "https://instagram.com/igorrayanrn",
+        "https://www.instagram.com/igorrayanrn?igsi=NXdvNXBweGl2d213&utm_source=qr"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "IGOR ROCHA",
+      "p": "PSOL",
+      "num": "5098",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002546800",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546800_div.jpg",
+      "ig": [
+        "https://www.instagram.com/IGOR_ROCHAOFICIAL?IGSH=EWRNCHFHDM5MC2I="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ÍRIS DE GÓIS",
+      "p": "DC",
+      "num": "2777",
+      "s": "Indeferido em prazo recursal ou com recurso",
+      "col": "DC",
+      "id": "200002552148",
+      "uf": "RN",
+      "photo": "fotos/FRN200002552148_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EUSOUIRISMARSOUSA/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "JEAN RODRIGUES",
+      "p": "DC",
+      "num": "2710",
+      "s": "Indeferido em prazo recursal ou com recurso",
+      "col": "DC",
+      "id": "200002552146",
+      "uf": "RN",
+      "photo": "fotos/FRN200002552146_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JEAN180573/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "JOÃO MAIA",
+      "p": "PP",
+      "num": "1111",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535715",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535715_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JOAODASILVAMAIA",
+        "https://www.instagram.com/JOAOMAIA1111"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "JOHN KENNETH",
+      "p": "SOLIDARIEDADE",
+      "num": "7722",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546771",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546771_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JOHNKENNETHJK?IGSH=AHI3AGEZY2C3B2W0"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "JUNINHO SAIA RODADA",
+      "p": "PL",
+      "num": "2200",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533883",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533883_div.jpg",
+      "ig": [
+        "https://instagram.com/JUNINHOSAIARODADA"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "KARINE DA VILA",
+      "p": "MOBILIZA",
+      "num": "3309",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549674",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549674_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "KEROLAYNE FERREIRA",
+      "p": "PCDOB",
+      "num": "6565",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533873",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533873_div.jpg",
+      "ig": [
+        "https://www.instagram.com/KEROLAYNE.FS/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "LEILA MAIA",
+      "p": "PP",
+      "num": "1144",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535719",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535719_div.jpg",
+      "ig": [
+        "https://www.instagram.com/LEILAMAIARN"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "LILIAN CYNTHIA",
+      "p": "AVANTE",
+      "num": "7044",
+      "s": "Deferido",
+      "col": "AVANTE",
+      "id": "200002551420",
+      "uf": "RN",
+      "photo": "fotos/FRN200002551420_div.jpg",
+      "ig": [
+        "https://www.instagram.com/liliancynthia?igsh=a3RwNDU1czlxb2xm"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "MAGNO REIS",
+      "p": "MOBILIZA",
+      "num": "3312",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549679",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549679_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "MARLEIDE CUNHA",
+      "p": "PT",
+      "num": "1300",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533870",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533870_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MARLEIDECUNHARN"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "MINEIRO",
+      "p": "PT",
+      "num": "1333",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533866",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533866_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MINEIROPTRN/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "MOACIR J. BARROS",
+      "p": "PSB",
+      "num": "4012",
+      "s": "Deferido",
+      "col": "PSB",
+      "id": "200002546747",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546747_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "NAGILA DINIZ",
+      "p": "UNIÃO",
+      "num": "4477",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535717",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535717_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NAGILA_DINIZ1/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "NALBA DA SAUDE",
+      "p": "MOBILIZA",
+      "num": "3310",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549673",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549673_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "NARDE SANTOS",
+      "p": "PRD",
+      "num": "2555",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546774",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546774_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NARDESANTOS"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "NATÁLIA BONAVIDES",
+      "p": "PT",
+      "num": "1311",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533872",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533872_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NATALIABONAVIDES/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "NAXSON PALHARES",
+      "p": "PDT",
+      "num": "1213",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546764",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546764_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "NEGA DE NENEM BORGES",
+      "p": "PSDB",
+      "num": "4555",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538213",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538213_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NEGADENENENBORGES?IGSH=AJZ3ADJHATRRMJDH"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "NINA SOUZA",
+      "p": "PL",
+      "num": "2233",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533880",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533880_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NOSSANINARN/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ODON JUNIOR",
+      "p": "PT",
+      "num": "1345",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533869",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533869_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ODONJRRN"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "OMAR NOGUEIRA",
+      "p": "AVANTE",
+      "num": "7000",
+      "s": "Deferido",
+      "col": "AVANTE",
+      "id": "200002551421",
+      "uf": "RN",
+      "photo": "fotos/FRN200002551421_div.jpg",
+      "ig": [
+        "https://www.instagram.com/omarnogueiravereador?igsh=MWRlNmd1dGF2ZnZ2MA=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PALHAÇO  FUXIQUINHO",
+      "p": "AVANTE",
+      "num": "7011",
+      "s": "Aguardando julgamento",
+      "col": "AVANTE",
+      "id": "200002551425",
+      "uf": "RN",
+      "photo": "fotos/FRN200002551425_div.jpg",
+      "ig": [
+        "https://www.instagram.com/fuxiquinhofc_?igsh=cW1qeHA2dXZ0NzRu",
+        "https://www.instagram.com/fuxiquinhoreserva?igsh=MTJ4aGJleGN1MHdkZg==",
+        "https://www.instagram.com/circodofuxiquinho?igsh=MW5oNXYyZ2gyenY0bw=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PASTOR JÚLIO NETO",
+      "p": "DC",
+      "num": "2711",
+      "s": "Deferido",
+      "col": "DC",
+      "id": "200002552145",
+      "uf": "RN",
+      "photo": "fotos/FRN200002552145_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PASTORA VERONICA",
+      "p": "PSOL",
+      "num": "5055",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002546798",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546798_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CANTORA_PASTORA_VERONICA?IGSH=BTHQY3HROHJSBMFH"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PATRÍCIA CASTRO",
+      "p": "PDT",
+      "num": "1255",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546760",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546760_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PATRICIA FERREIRA",
+      "p": "MOBILIZA",
+      "num": "3323",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549680",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549680_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PAULINHA GALDINO",
+      "p": "PP",
+      "num": "1122",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535720",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535720_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PAULINHAGALDINONATAL"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PAULO OVÍDIO",
+      "p": "CIDADANIA",
+      "num": "2345",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538214",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538214_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PAULOOVIDIO23"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PEDRO CHE",
+      "p": "PDT",
+      "num": "1200",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546759",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546759_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PEDROPAULOCMATTOS?IGSH=MXVHNMP6Z3M0MMTNDA%3D%3D",
+        "https://www.instagram.com/PEDROCHE_PEDROPAULO?IGSH=ANV0EWJUBHHZOXJJ"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PEDRO FILHO",
+      "p": "PL",
+      "num": "2255",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533878",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533878_div.jpg",
+      "ig": [
+        "https://www.instagram.com/pedrofilhorn?igsh=cGU0b3IxaGhmNjBp&ut%20m_source=qr"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PEDRO HENRIQUE",
+      "p": "PSB",
+      "num": "4044",
+      "s": "Renúncia",
+      "col": "PSB",
+      "id": "200002546753",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546753_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PHILIPE DO VAT",
+      "p": "PSOL",
+      "num": "5044",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002546801",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546801_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PHILIPEDOVAT?IGSH=NMPHZXR3YWPONGS3"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PROFESSOR EDVALDO JÚNIOR",
+      "p": "PDT",
+      "num": "1244",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546761",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546761_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PROFEDVALDOJUNIOR?IGSH=DJZTBG43D2RMAMDW&UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PROFESSORA CLARICE",
+      "p": "DC",
+      "num": "2730",
+      "s": "Deferido",
+      "col": "DC",
+      "id": "200002552150",
+      "uf": "RN",
+      "photo": "fotos/FRN200002552150_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "PROFESSORA SÂMELA",
+      "p": "PDT",
+      "num": "1230",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546765",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546765_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SAMELATERAPEUTADEMULHERES",
+        "https://www.instagram.com/SAMELAGOMES_TERAPEUTA",
+        "https://www.instagram.com/SAMELAGOMESOFICIAL"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "RAMA CUNHA",
+      "p": "PRD",
+      "num": "2512",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546776",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546776_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RAMACUNHA"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "RAPHAEL FERREIRA",
+      "p": "NOVO",
+      "num": "3000",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "200002535500",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535500_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RAPHAELFERREIRAADV?IGSH=M2G5A3BPDGOZZMXH&UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "RAPOSINHA",
+      "p": "PCDOB",
+      "num": "6513",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533871",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533871_div.jpg",
+      "ig": [
+        "https://www.instagram.com/raposinha6513_/",
+        "https://www.instagram.com/raposinha6513/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "RAQUEL LOVAN",
+      "p": "PSB",
+      "num": "4088",
+      "s": "Deferido",
+      "col": "PSB",
+      "id": "200002546748",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546748_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "RICHARDSON",
+      "p": "NOVO",
+      "num": "3001",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "200002535501",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535501_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RICHARDSONRN_/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ROBINSON FARIA",
+      "p": "PP",
+      "num": "1155",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535721",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535721_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ROBINSONFARIA"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "RODRIGO ALADIM",
+      "p": "PSDB",
+      "num": "4567",
+      "s": "Aguardando julgamento",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538218",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538218_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RODRIGOALADIM.RN?IGSH=CM9WENGZOXP6NXM2"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "SAMARA TORRES",
+      "p": "MOBILIZA",
+      "num": "3322",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549677",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549677_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "SARGENTO GONÇALVES",
+      "p": "PL",
+      "num": "2222",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533877",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533877_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SARGENTOGONCALVES22"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "SARGENTO MELQUISEDEC",
+      "p": "DC",
+      "num": "2722",
+      "s": "Aguardando julgamento",
+      "col": "DC",
+      "id": "200002552149",
+      "uf": "RN",
+      "photo": "fotos/FRN200002552149_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MELQUISEDEC.MELO.LIRA/?__D=1%252F"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "SUSAPE AUGUSTO",
+      "p": "PDT",
+      "num": "1234",
+      "s": "Deferido",
+      "col": "PDT",
+      "id": "200002546766",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546766_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SUSAPEANDO?UTM_SOURCE=QR",
+        "https://www.instagram.com/SUSAPEAUGUSTO?UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "SUYANE VARELA",
+      "p": "NOVO",
+      "num": "3010",
+      "s": "Deferido",
+      "col": "NOVO",
+      "id": "200002535505",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535505_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "THABATTA PIMENTA",
+      "p": "PV",
+      "num": "4343",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533868",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533868_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EUPIMENTA?IGSH=D2KXM2VHBG9NAWLS"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "VANUZIA",
+      "p": "PSOL",
+      "num": "5013",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002546799",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546799_div.jpg",
+      "ig": [
+        "https://www.instagram.com/VANUZA__LOPES__?IGSH=MW05M3Z2M2LRBG9HYG=="
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "VICTOR HUGO",
+      "p": "UP",
+      "num": "8080",
+      "s": "Deferido",
+      "col": "UP",
+      "id": "200002548527",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548527_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "VITOR MARQUES",
+      "p": "AVANTE",
+      "num": "7022",
+      "s": "Deferido",
+      "col": "AVANTE",
+      "id": "200002551419",
+      "uf": "RN",
+      "photo": "fotos/FRN200002551419_div.jpg",
+      "ig": [
+        "https://www.instagram.com/vitormarquesrn?igsh=bXdmZHk0djZoaTRt"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "VIVIANE AVELINO",
+      "p": "MISSÃO",
+      "num": "1414",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547281",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547281_div.jpg",
+      "ig": [
+        "https://www.instagram.com/vivianeavelinorn?igsi=MTdkM-md0dWkzY2Viaw%3D%3D&utm_source=qr",
+        "https://instagram.com/vivianeavelinorn"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "WENDER ANDRADE",
+      "p": "MOBILIZA",
+      "num": "3333",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549672",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549672_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "WINDSON XUXU",
+      "p": "MOBILIZA",
+      "num": "3324",
+      "s": "Deferido",
+      "col": "MOBILIZA",
+      "id": "200002549676",
+      "uf": "RN",
+      "photo": "fotos/FRN200002549676_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado federal",
+      "n": "XEXEU DE NATAL",
+      "p": "DC",
+      "num": "2724",
+      "s": "Deferido",
+      "col": "DC",
+      "id": "200002552144",
+      "uf": "RN",
+      "photo": "fotos/FRN200002552144_div.jpg",
+      "ig": [
+        "https://www.instagram.com/XEXEUDENATALL/",
+        "https://www.instagram.com/XEXEUDENATAL/"
+      ]
+    },
+    {
+      "c": "Deputado federal",
+      "n": "ZÉ PEIXEIRO",
+      "p": "PSDB",
+      "num": "4545",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538220",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538220_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ZEPEIXEIROOFICIAL?IGSH=MWY4ZMF1M29NBHNPZA=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ADJUTO DIAS",
+      "p": "PL",
+      "num": "22111",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534419",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534419_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ADJUTODIAS?IGSH=MXI5EDB5EMHXZ2DZNG=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ADRIANA TROMBETA",
+      "p": "PP",
+      "num": "11000",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535739",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535739_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ALEXANDRA",
+      "p": "PSOL",
+      "num": "50005",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548545",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548545_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ALEXANDRAARTESMANHAS?IGSH=MTI0YXM2A2FHAGPMOQ=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ALEXSANDRA XAVIER",
+      "p": "PRD",
+      "num": "25900",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546788",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546788_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DIACONISAIRMA"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ALINE JULIETE",
+      "p": "PT",
+      "num": "13777",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533865",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533865_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ALINEJULIETE13?IGS"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "AMORA BRAYAN",
+      "p": "PL",
+      "num": "22007",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534422",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534422_div.jpg",
+      "ig": [
+        "https://instagram.com/LARAMORABRAYAN"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ANA LUISA",
+      "p": "MDB",
+      "num": "15180",
+      "s": "Aguardando julgamento",
+      "col": "MDB",
+      "id": "200002534348",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534348_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ANALUISA.RN/REELS/",
+        "https://www.instagram.com/analuisa.rn"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ANA SOS PATINHAS",
+      "p": "PSOL",
+      "num": "50123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548543",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548543_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ANASOSPATINHAS?IGSH=MNVZZNJ0A3Q0OHB0"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ANGELA PAIVA",
+      "p": "MDB",
+      "num": "15100",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534357",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534357_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ANGELAPAIVAJ?UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ANNE LAGARTIXA",
+      "p": "PL",
+      "num": "22762",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534417",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534417_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ANNELAGARTIXA/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ANY ALCÂNTARA",
+      "p": "PSDB",
+      "num": "45707",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538237",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538237_div.jpg",
+      "ig": [
+        "https://www.instagram.com/anyspadasunhas?stkn=MjR6MWxiNDZwNm0x"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "AURELIO OLIVEIRA",
+      "p": "PSOL",
+      "num": "50555",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548544",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548544_div.jpg",
+      "ig": [
+        "https://www.instagram.com/AURELIOOLIVEIRACS"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "AZUL",
+      "p": "PRD",
+      "num": "25190",
+      "s": "Renúncia",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546787",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546787_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "BAMBAM",
+      "p": "PP",
+      "num": "11711",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535732",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535732_div.jpg",
+      "ig": [
+        "https://www.instagram.com/BAMBAMCHEGOU/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "BIBI COSTA",
+      "p": "PL",
+      "num": "22322",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533892",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533892_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "BIBIANO",
+      "p": "MDB",
+      "num": "15555",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534370",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534370_div.jpg",
+      "ig": [
+        "https://www.instagram.com/BIBIANO.RN?IGSH=NJJ2AG9LNGN0OG1X&UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "BISPO PAULO LUIZ",
+      "p": "PL",
+      "num": "22456",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534428",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534428_div.jpg",
+      "ig": [
+        "https://www.instagram.com/BP.PAULOLUIZ/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CABO RALPH",
+      "p": "CIDADANIA",
+      "num": "23456",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538226",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538226_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CABORALPH_/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CAMILA ARAÚJO",
+      "p": "PL",
+      "num": "22777",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534421",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534421_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CARLINHOS DO GÁS",
+      "p": "PSOL",
+      "num": "50050",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548560",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548560_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CEZINHA NUNES",
+      "p": "PCDOB",
+      "num": "65123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533859",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533859_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CEZINHANUNES/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CHICO CHAPÉU DE COURO",
+      "p": "PRD",
+      "num": "25600",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546780",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546780_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CHICOANTONIORN"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CHICO GUERREIRO",
+      "p": "REDE",
+      "num": "18456",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548546",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548546_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SUSTENTAVELCHICOGUERREIRO?IGSH=CMM4N3A4ZMIZADJK"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CINTHIA DE ALLYSON",
+      "p": "UNIÃO",
+      "num": "44444",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535730",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535730_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CINTHIADEALLYSON/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CLEITON DA POLICLÍNICA",
+      "p": "PSDB",
+      "num": "45321",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538224",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538224_div.jpg",
+      "ig": [
+        "https://www.instagram.com/CLEITONDAPOLICLINICA_?IGSH=ZM12B2E1OHYZBHOY"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CLOVIS JUNIOR",
+      "p": "MDB",
+      "num": "15000",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534359",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534359_div.jpg",
+      "ig": [
+        "https://www.instagram.com/VEREADORCLOVISJUNIOR?IGSH=MTZLEHZ0YWL3EXO1ZW=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CORONEL AZEVEDO",
+      "p": "PL",
+      "num": "22222",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533888",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533888_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "CRISTIANE DANTAS",
+      "p": "PSDB",
+      "num": "45555",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538228",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538228_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DEPCRISTIANEDANTAS?IGSH=MW0YCHU0ZXLUMNOYDG=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DAIANA VALENTIM",
+      "p": "PSDB",
+      "num": "45444",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538245",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538245_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DAIANAVALENTIM/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DANIEL SANTOS",
+      "p": "PRD",
+      "num": "25789",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546786",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546786_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DANIEL_SANTOS"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DANIEL VALENÇA",
+      "p": "PT",
+      "num": "13111",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533849",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533849_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DANIELVALENCAPT/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DANIELE PRADO",
+      "p": "PL",
+      "num": "22722",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533884",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533884_div.jpg",
+      "ig": [
+        "https://www.instagram.com/STORIES/DANIELEPRADO22/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DAVI FERNANDES",
+      "p": "PSDB",
+      "num": "45789",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538223",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538223_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DAVIFERNANDESRN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DÉBORA REFE",
+      "p": "PT",
+      "num": "13882",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533848",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533848_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DEBORAREFE"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DEIVID SIMÃO",
+      "p": "UNIÃO",
+      "num": "44111",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535729",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535729_div.jpg",
+      "ig": [
+        "https://www.instagram.com/_DEIVIDSIMAO/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DELEGADO LEOCÁDIO",
+      "p": "PSDB",
+      "num": "45999",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538242",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538242_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DELEGADOLEOCADIO?IGSH=ODFMA3DUZMHQN2FU"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DERLANDIO JACKSON",
+      "p": "PP",
+      "num": "11333",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535742",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535742_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DERLANDIOJACKSON/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DIVANEIDE BASÍLIO",
+      "p": "PT",
+      "num": "13613",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533863",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533863_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DIVANEIDEBASILIO/",
+        "https://www.instagram.com/divaverso.oficial/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DR ANTÔNIO JÁCOME",
+      "p": "MDB",
+      "num": "15133",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534358",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534358_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DR.ANTONIOJACOME?IGSH=MXE4D2PQD3VIBTYZBW=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DR GUSTAVO SOARES",
+      "p": "PSDB",
+      "num": "45123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538244",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538244_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DRGUSTAVOSOARESS?IGSH=MWNWNNR2NTKYBXRYMQ%3D%3D&UTM_SOU"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DR MILANO MAXIMO",
+      "p": "MDB",
+      "num": "15999",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534349",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534349_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DRMILANOMAXIMO?IGSH=MTD3DXLRDNHXM2P2BG%3D%3D&UTM_SOURC",
+        "https://www.instagram.com/MILANOMAXIMO?IGSH=CHLUBWPSAMPLMGJW&UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DR. KERGINALDO",
+      "p": "PL",
+      "num": "22100",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534427",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534427_div.jpg",
+      "ig": [
+        "https://instagram.com/DRKERGINALDO"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DRA JÚLIA ALMEIDA",
+      "p": "PSDB",
+      "num": "45666",
+      "s": "Renúncia",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538227",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538227_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DRAJULIAALMEIDARN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DRA KARINA PEREIRA",
+      "p": "PSDB",
+      "num": "45666",
+      "s": "Aguardando julgamento",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002554438",
+      "uf": "RN",
+      "photo": "fotos/FRN200002554438_div.jpg",
+      "ig": [
+        "https://www.instagram.com/dra.karinapereira"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "DRA TATIANE COSTA",
+      "p": "CIDADANIA",
+      "num": "23123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538231",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538231_div.jpg",
+      "ig": [
+        "https://www.instagram.com/dra.tatianecosta.oficial?stkn=cXAxd2Fub3VuOHE0",
+        "https://www.instagram.com/dra.tatianecosta.oficial",
+        "https://www.instagram.com/DOUTORATATI_COSTA/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "EDMILSON ACARI",
+      "p": "PRD",
+      "num": "25222",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546782",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546782_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EDMILSONACARI"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ÉDSON NEGRÃO",
+      "p": "REDE",
+      "num": "18888",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548555",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548555_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EDSON_NEGRAO1?IGSH=MMPZEDZ5NDBNMMJZ"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ELLEM ROCHA",
+      "p": "MDB",
+      "num": "15300",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534360",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534360_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ELLEM_SHOW____?UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ELVIS DE DAL",
+      "p": "MDB",
+      "num": "15666",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534353",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534353_div.jpg",
+      "ig": [
+        "https://www.instagram.com/elvis.amaro_oficial?igsi=aHlwbWt1Yjc3NHZ2&utm_source=gr"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ENGRÁCIA ALVES",
+      "p": "PSDB",
+      "num": "45454",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538241",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538241_div.jpg",
+      "ig": [
+        "https://www.instagram.com/engraciaalvesrn?stkn=MTIxOHp2YnBrbzJwYw%3D%3D"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ERIKO JÁCOME",
+      "p": "PSDB",
+      "num": "45111",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538246",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538246_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ERIKOJACOME?IGSH=MXZSYXD5Z29YCWLIZW=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "EUDIANE MACEDO",
+      "p": "PV",
+      "num": "43666",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533854",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533854_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EUDIANEMACEDORN"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "EUGÊNIO RIBEIRO",
+      "p": "PSDB",
+      "num": "45888",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538225",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538225_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EUGENIORIBEIROT/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "EXPEDITO FERREIRA",
+      "p": "PSDB",
+      "num": "45222",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538234",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538234_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EXPEDITOFERREIRA.RN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "EZEQUIEL",
+      "p": "PSDB",
+      "num": "45678",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538230",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538230_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DEPEZEQUIELRN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "FÁBIO SILVEIRA",
+      "p": "MISSÃO",
+      "num": "14000",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547274",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547274_div.jpg",
+      "ig": [
+        "https://www.instagram.com/fabiosilveira.rn"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "FÁTIMA SOUZA",
+      "p": "PCDOB",
+      "num": "65555",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533847",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533847_div.jpg",
+      "ig": [
+        "https://www.instagram.com/FATIMACNAGITOS/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "FLÁVIO DE BERÓI",
+      "p": "PSDB",
+      "num": "45200",
+      "s": "Indeferido em prazo recursal ou com recurso",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538235",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538235_div.jpg",
+      "ig": [
+        "https://www.instagram.com/FLAVIODEBEROI?IGSH=OTFMZ282Y2H0OGQZ"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "FRANCISCO DO PT",
+      "p": "PT",
+      "num": "13222",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533860",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533860_div.jpg",
+      "ig": [
+        "https://www.instagram.com/FRANCISCODOPT?IGSH=MWDQEWDRDWCWB3R5ZG=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GABRIEL CÉSAR",
+      "p": "PL",
+      "num": "22444",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534414",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534414_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GABRIELCESARRN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GABRIEL RIBEIRO",
+      "p": "PL",
+      "num": "22522",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534420",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534420_div.jpg",
+      "ig": [
+        "https://instagram.com/GABRIELRIBEIRORN"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GALENO TORQUATO",
+      "p": "UNIÃO",
+      "num": "44544",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535738",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535738_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GALENOTORQUATO"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GEORGE",
+      "p": "PSOL",
+      "num": "50013",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548556",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548556_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GEORGECULTURA?IGSH=MXJRCWL5ADFKA3ZRNA=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GEOVANA SILVA",
+      "p": "PRD",
+      "num": "25333",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546789",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546789_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GERLAILSON ABRANTES (NENEM)",
+      "p": "PT",
+      "num": "13333",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533845",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533845_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GERLAILSONABRANTES?IGSH=OGF2ENC2DWYXCTFT"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GETÚLIO RÊGO",
+      "p": "PL",
+      "num": "22110",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534424",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534424_div.jpg",
+      "ig": [
+        "https://instagram.com/DEPGETULIOREGO"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GILBERTO OLINTO",
+      "p": "PRD",
+      "num": "25456",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546778",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546778_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GILVAN BALADA",
+      "p": "PSDB",
+      "num": "45084",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538236",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538236_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GILVANBALADANATAL/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GILVAN SANTIAGO",
+      "p": "REDE",
+      "num": "18222",
+      "s": "Indeferido em prazo recursal ou com recurso",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548549",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548549_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GILVAN12194?IGSH=MTJNNZH2DM8YNZKWMQ=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GLECIO ROCHA - O REI DO BODE",
+      "p": "PCDOB",
+      "num": "65777",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533846",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533846_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GLECIOROCHA_OREIDOBODE/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GUILHERME QUEIROZ",
+      "p": "REDE",
+      "num": "18123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548553",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548553_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GUILHERMEMELOQUEIROZ?IGSH=NNHHYWQ0EWFQM2RN"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "GUSTAVO CARVALHO",
+      "p": "PL",
+      "num": "22888",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534423",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534423_div.jpg",
+      "ig": [
+        "https://www.instagram.com/GCARVALHORN?UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "HOLDERLIN SILVA",
+      "p": "MDB",
+      "num": "15333",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534354",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534354_div.jpg",
+      "ig": [
+        "https://www.instagram.com/HOLDERLINSILVA1/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "IRAMÁ BARBOSA",
+      "p": "PSOL",
+      "num": "50000",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548561",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548561_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ISMENIA ARAUJO",
+      "p": "MDB",
+      "num": "15500",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534366",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534366_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ISMENIAVITORIA?IGSH=NTV5AJBTZXVVB2RT"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ISOLDA DANTAS",
+      "p": "PT",
+      "num": "13123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533862",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533862_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ISOLDADANTASPT/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "IVAN BARON",
+      "p": "PT",
+      "num": "13013",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533857",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533857_div.jpg",
+      "ig": [
+        "https://instagram.com/IVANBARON"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "IVAN JUNIOR",
+      "p": "MDB",
+      "num": "15222",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534351",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534351_div.jpg",
+      "ig": [
+        "https://www.instagram.com/IVANJRRN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "IVANILDA TENORIO",
+      "p": "MDB",
+      "num": "15115",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534365",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534365_div.jpg",
+      "ig": [
+        "https://www.instagram.com/IVANILDATENORIOFONSECA?IGSH=ZHB5AHPMMJZ3ZDDH"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "IVANILSON OLIVEIRA",
+      "p": "PV",
+      "num": "43333",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533853",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533853_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "J LIMA",
+      "p": "PRD",
+      "num": "25001",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546781",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546781_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JLIMALIMA"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JEFERSON BRITO",
+      "p": "MDB",
+      "num": "15777",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534369",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534369_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JEFERSONBRITORN?IGSH=NTZ1Z3RPA2RMEDDP&UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JESSICA ELIAS",
+      "p": "PSOL",
+      "num": "50024",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548562",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548562_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JESSICA5718SILVA?IGSH=DGXLOGMXZGPOZGTP"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JONATA NASCIMENTO",
+      "p": "PSDB",
+      "num": "45777",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538238",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538238_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JONATAJNASCIMENTO?IGSH=CMJTAJNZANK0MXQY"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JORGE DE LIMA",
+      "p": "PT",
+      "num": "13713",
+      "s": "Aguardando julgamento",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533851",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533851_div.jpg",
+      "ig": [
+        "https://www.instagram.com/BLOGJORGEDELIMA?UTM_SOURCE=QR&IGSH=DMRIDTG2NTJJOGS3"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JORGE DO ROSÁRIO",
+      "p": "PL",
+      "num": "22000",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533893",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533893_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JORGEDOROSARIORN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JOSEMAR VARELA",
+      "p": "PL",
+      "num": "22022",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533886",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533886_div.jpg",
+      "ig": [
+        "https://www.instagram.com/tocomjosemar?igsi=MWpncm1ld2VjZGN3bw%3D%3D"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JULIANA GARCIA",
+      "p": "PT",
+      "num": "13113",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533850",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533850_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JULIANAGARCIA.BR?IGSH=DW56ZGHXYMJVY2FV"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JULIO CESAR",
+      "p": "PP",
+      "num": "11555",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535726",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535726_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EUSOUJULIOCESARCAMARARN?IGSH=MXBKAWZRNM5KA3FWZQ==",
+        "https://www.instagram.com/CHANNEL/ABYMTPEGDR7YEOV4/",
+        "https://www.instagram.com/TIMEJULIOCESAR?IGSH=ZZB5DDFLAJE1NWN3"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JULIO DA FNR",
+      "p": "UP",
+      "num": "80000",
+      "s": "Deferido",
+      "col": "UP",
+      "id": "200002547829",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547829_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JÚNIOR COLAÇA",
+      "p": "PSDB",
+      "num": "45333",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538229",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538229_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JUNIORCOLACARN/?__D=1%3FUTM_SOURCE%25OTRAS"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JUNIOR MARQUES",
+      "p": "MDB",
+      "num": "15111",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534362",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534362_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JUNIORMARQUES_RN?IGSH=ZDRVDWLIDTFRNJNY"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "JUSSY NUNES",
+      "p": "PRD",
+      "num": "25444",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546785",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546785_div.jpg",
+      "ig": [
+        "https://www.instagram.com/JUSSY_VILELA"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "KALINE DE DR. BERNARDO",
+      "p": "PV",
+      "num": "43000",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533861",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533861_div.jpg",
+      "ig": [
+        "https://www.instagram.com/KALINEDEDRBERNARDO"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "KARINA PIMENTA",
+      "p": "PL",
+      "num": "22220",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534415",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534415_div.jpg",
+      "ig": [
+        "https://instagram.com/KARINAPIMENTARN"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "KLEBER RODRIGUES",
+      "p": "PP",
+      "num": "11999",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535736",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535736_div.jpg",
+      "ig": [
+        "https://www.instagram.com/KLEBERRODRIGUES?IGSH=MW5HBWY2YZIWENNYEA=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "LEIDE FIT",
+      "p": "PSDB",
+      "num": "45455",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538232",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538232_div.jpg",
+      "ig": [
+        "https://www.instagram.com/leidepsi?stkn=MWJnZ3ZoYnM5cXBjZw%3D%3D"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "LÉO SOUZA",
+      "p": "PSDB",
+      "num": "45700",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538240",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538240_div.jpg",
+      "ig": [
+        "https://www.instagram.com/LEOSOUZAE/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "LILA",
+      "p": "REDE",
+      "num": "18000",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548554",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548554_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ERINEUZA.MARQUES?IGSH=MWHHCNZ5ZJB3OGC2BQ=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "LOURENÇO",
+      "p": "PSOL",
+      "num": "50100",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548557",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548557_div.jpg",
+      "ig": [
+        "https://www.instagram.com/LOURENCOCAPRI?IGSH=Z3U1DMVVDWROAMJ4",
+        "https://www.instagram.com/lourenco50100"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "LUCIANO BARBOSA",
+      "p": "MDB",
+      "num": "15888",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534350",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534350_div.jpg",
+      "ig": [
+        "https://www.instagram.com/LUCIANOINCLUSAOEJUSTICA?UTM_SOURCE=QR&IGSH=MWPIOGFQOTC",
+        "https://www.instagram.com/LUCIANOBARBOSARN?UTM_SOURCE=QR&IGSH=DTD0Y2PTMJNKCMFI"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "LUÍZ EDUARDO",
+      "p": "PL",
+      "num": "22555",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533885",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533885_div.jpg",
+      "ig": [
+        "https://instagram.com/LUIZEDUARDO.RN",
+        "https://instagram.com/LUISEBSILVA"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MACIEL GOMES",
+      "p": "UNIÃO",
+      "num": "44222",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535740",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535740_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MACIELGS?IGSH=D3C1M3FYDJN6EMT2&UTM_SOURCE=QR"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MAJOR CARLA CÂMARA",
+      "p": "PP",
+      "num": "11666",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535737",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535737_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MAJORCARLACAMARA/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MAJOR EMERSON",
+      "p": "MDB",
+      "num": "15190",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534356",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534356_div.jpg",
+      "ig": [
+        "https://www.instagram.com/EMERSON_MENEZES26?UTM_SOURCE=QR&IGSH=OHP6NNJNDJNJCTF1"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MANOEL FELIX",
+      "p": "PRD",
+      "num": "25111",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546783",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546783_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MANOELFELIXDA15"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MARCELA ALVES",
+      "p": "PL",
+      "num": "22999",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533891",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533891_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MARLENE BEZERRA",
+      "p": "UNIÃO",
+      "num": "44190",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535741",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535741_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MARLENEBEZERRALOURENCO/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MARLENE MONTE",
+      "p": "MDB",
+      "num": "15015",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534368",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534368_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MARLENEMONTE2026?IGSH=MWRMM2XLZMVQOG5LBW=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MICHAEL DINIZ",
+      "p": "PL",
+      "num": "22422",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533887",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533887_div.jpg",
+      "ig": [
+        "https://instagram.com/MICHAELDINIZRN"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MILENNE BARBOSA",
+      "p": "UP",
+      "num": "80180",
+      "s": "Deferido",
+      "col": "UP",
+      "id": "200002547828",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547828_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "MILKLEI DO PV",
+      "p": "PV",
+      "num": "43100",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533855",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533855_div.jpg",
+      "ig": [
+        "https://www.instagram.com/MILKLEIDOPV/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "NATALIA LEOPOLDINA",
+      "p": "UNIÃO",
+      "num": "44888",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535735",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535735_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NATALIA_LEOPOLDINA/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "NEILTON DIÓGENES",
+      "p": "PP",
+      "num": "11111",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535725",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535725_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NEILTONDIOGENES/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "NELTER QUEIROZ",
+      "p": "PP",
+      "num": "11222",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535728",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535728_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NELTERQUEIROZ?IGSH=MXHQMXVYBZQ5ODN5AQ=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "NENEL LUCAS",
+      "p": "UNIÃO",
+      "num": "44333",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535727",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535727_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NENELLUCAS/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "NEY ROBSON",
+      "p": "PSDB",
+      "num": "45045",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538243",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538243_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NEYROBSONRN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "NILDETE VITORINO",
+      "p": "PRD",
+      "num": "25555",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546784",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546784_div.jpg",
+      "ig": [
+        "https://www.instagram.com/NILDETEVITORINO"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PASTORA JOIS",
+      "p": "PL",
+      "num": "22234",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534426",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534426_div.jpg",
+      "ig": [
+        "https://www.instagram.com/STORIES/JOISMEDEIROSRN/3951254183697342433/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PAULO BINHO",
+      "p": "REDE",
+      "num": "18333",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548550",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548550_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RAIMUNDOPAULOMEDEIROS?IGSH=MWNLDTGYZJRUBMROBW=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PEDRO LOPES",
+      "p": "PT",
+      "num": "13000",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533858",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533858_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PEDROLOPES.RGN?IGSH=BDR6MGEYZDLUAHRP"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "POLICIAL CANTOR",
+      "p": "PSDB",
+      "num": "45190",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538222",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538222_div.jpg",
+      "ig": [
+        "https://www.instagram.com/OPOLICIALCANTOR?IGSH=OHNRDGWWEHC3ZGVP"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "POLYANNA DANTAS",
+      "p": "PP",
+      "num": "11123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535731",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535731_div.jpg",
+      "ig": [
+        "https://www.instagram.com/POLYANNARN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PROF. MARCELO FELIPPE",
+      "p": "PRD",
+      "num": "25065",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546790",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546790_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PROFMARCELOFELIPPE"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PROFESSOR EMERSON",
+      "p": "MDB",
+      "num": "15123",
+      "s": "Aguardando julgamento",
+      "col": "MDB",
+      "id": "200002534361",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534361_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PROFESSOR.EMERSON.MELO/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PROFESSOR LUIS CARLOS NORONHA",
+      "p": "MDB",
+      "num": "15444",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534352",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534352_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PROFESSORLUISCARLOSNORONHA?UTM_SOURCE=QR&IGSH=MTN3DHA1"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PROFESSORA ANA CELIA",
+      "p": "PSTU",
+      "num": "16456",
+      "s": "Deferido",
+      "col": "PSTU",
+      "id": "200002542489",
+      "uf": "RN",
+      "photo": "fotos/FRN200002542489_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
+        "https://www.instagram.com/ANACELIA_SIQUEIRA?IGSH=MWRMB3RKNMROOGH6DA=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PROFESSORA APARECIDA",
+      "p": "PRD",
+      "num": "25777",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546779",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546779_div.jpg",
+      "ig": [
+        "https://www.instagram.com/APARECIDAPROF2023"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PROFESSORA MÁRCIA",
+      "p": "REDE",
+      "num": "18018",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548558",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548558_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PROFMARCIAHISSETT18?IGSH=MTJXCJI5CJF0Y203DW=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "PROFESSORA MARGARETH",
+      "p": "PSOL",
+      "num": "50333",
+      "s": "Renúncia",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548552",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548552_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "RAPHAELA ARAÚJO",
+      "p": "REDE",
+      "num": "18777",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548551",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548551_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "RAYANNE FIGUEIREDO",
+      "p": "MISSÃO",
+      "num": "14777",
+      "s": "Deferido",
+      "col": "MISSÃO",
+      "id": "200002547275",
+      "uf": "RN",
+      "photo": "fotos/FRN200002547275_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RAYFIGUEIREDORN?IGSH=MTZPN3HYMGRZEXLPAG==",
+        "https://instagram.com/rayfigueiredorn"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "REITORA LUDIMILLA",
+      "p": "PSDB",
+      "num": "45456",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538239",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538239_div.jpg",
+      "ig": [
+        "https://www.instagram.com/LUDIMILLAOLIVEIRARN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "RENAN DA FEDERAL",
+      "p": "PL",
+      "num": "22345",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534416",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534416_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "RENAN RIBEIRO",
+      "p": "REDE",
+      "num": "18118",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548548",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548548_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RIBEIRODEARAUJORENAN?IGSH=MWS1CHCZMGVOZMHLZQ=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ROBERTO MOSSORÓ",
+      "p": "REDE",
+      "num": "18999",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548559",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548559_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ROBERTO_FELIX_PEREIRA_?IGSH=MWZNATHVBXDLEHJQDG=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "ROBSON CARVALHO",
+      "p": "UNIÃO",
+      "num": "44555",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535734",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535734_div.jpg",
+      "ig": [
+        "https://www.instagram.com/ROBSONCARVALHORN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "RONALDO CACHORRÃO",
+      "p": "PRD",
+      "num": "25700",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(PRD/SOLIDARIEDADE)",
+      "id": "200002546777",
+      "uf": "RN",
+      "photo": "fotos/FRN200002546777_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RONALDOCACHORRAO"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "RONNY HOLANDA",
+      "p": "PV",
+      "num": "43123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533852",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533852_div.jpg",
+      "ig": [
+        "https://www.instagram.com/RONNY.HOLANDA?UTM_SOURCE=QR&IGSH=OHBWM2VRYJLND3%20JL",
+        "https://www.instagram.com/POLITICASDORN?UTM_SOURCE=QR&IGSH=MXM5OWS0CMJRE%20DJKDQ%3"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "SALETE CAMPELO",
+      "p": "MDB",
+      "num": "15400",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534367",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534367_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SALETECAMPELO97/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "SARA SANTOS",
+      "p": "MDB",
+      "num": "15155",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534364",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534364_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SARASANTOS_RN?UTM_SOURCE=QR&IGSH=MWGXOWG5NMPJD2RZAQ=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "SARGENTO MANASSES",
+      "p": "PL",
+      "num": "22556",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534418",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534418_div.jpg",
+      "ig": [
+        "https://instagram.com/SARGENTO_MANASSES"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "SARGENTO RIVALDO",
+      "p": "PL",
+      "num": "22190",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533889",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533889_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SARGENTORIVALDORN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "SIRLENO JUNIOR",
+      "p": "PP",
+      "num": "11777",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535733",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535733_div.jpg",
+      "ig": [
+        "https://www.instagram.com/SIRLENOJR/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "TAVEIRA JÚNIOR",
+      "p": "PSDB",
+      "num": "45000",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSDB CIDADANIA(PSDB/CIDADANIA)",
+      "id": "200002538233",
+      "uf": "RN",
+      "photo": "fotos/FRN200002538233_div.jpg",
+      "ig": [
+        "https://www.instagram.com/DEPUTADOTAVEIRAJR/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "TEREZINHA MAIA",
+      "p": "PL",
+      "num": "22123",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002533890",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533890_div.jpg",
+      "ig": [
+        "https://www.instagram.com/TEREZINHAMAIARN?IGSH=MXNPBWLZZNKXEWJWCA=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "TIAGO SILVA",
+      "p": "PSTU",
+      "num": "16123",
+      "s": "Deferido",
+      "col": "PSTU",
+      "id": "200002542490",
+      "uf": "RN",
+      "photo": "fotos/FRN200002542490_div.jpg",
+      "ig": [
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
+        "https://www.instagram.com/TIAGOPSTU16?IGSH=MW5HNDR0MDEYNJFYMG=="
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "TOMBA FARIAS",
+      "p": "PL",
+      "num": "22333",
+      "s": "Deferido",
+      "col": "PL",
+      "id": "200002534425",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534425_div.jpg",
+      "ig": [
+        "https://instagram.com/TOMBAFARIAS"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "UBALDO FERNANDES",
+      "p": "PV",
+      "num": "43222",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533864",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533864_div.jpg",
+      "ig": [
+        "https://www.instagram.com/UBALDOFERNANDESRN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "VALÉRIA CICLISTA",
+      "p": "PV",
+      "num": "43777",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(PT/PC do B/PV)",
+      "id": "200002533856",
+      "uf": "RN",
+      "photo": "fotos/FRN200002533856_div.jpg",
+      "ig": [
+        "https://www.instagram.com/VALERIACAVALCANTERN/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "VAVÁ AZEVEDO",
+      "p": "UNIÃO",
+      "num": "44123",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO UNIÃO PROGRESSISTA(UNIÃO/PP)",
+      "id": "200002535724",
+      "uf": "RN",
+      "photo": "fotos/FRN200002535724_div.jpg",
+      "ig": [
+        "https://www.instagram.com/VEREADOR.VAVA.AZEVEDO/"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "WALTER ALVES",
+      "p": "MDB",
+      "num": "15678",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534363",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534363_div.jpg",
+      "ig": [
+        "https://www.instagram.com/WALTERALVESRN"
+      ]
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "WILSON DUARTE",
+      "p": "PSOL",
+      "num": "50222",
+      "s": "Deferido",
+      "col": "FEDERAÇÃO PSOL REDE(PSOL/REDE)",
+      "id": "200002548547",
+      "uf": "RN",
+      "photo": "fotos/FRN200002548547_div.jpg",
+      "ig": []
+    },
+    {
+      "c": "Deputado estadual",
+      "n": "YARA GOIS",
+      "p": "MDB",
+      "num": "15456",
+      "s": "Deferido",
+      "col": "MDB",
+      "id": "200002534355",
+      "uf": "RN",
+      "photo": "fotos/FRN200002534355_div.jpg",
+      "ig": [
+        "https://www.instagram.com/YARA_GOISRN?IGSH=OTH3ZW9QDTK2ZWO4"
+      ]
+    }
+  ]
+}

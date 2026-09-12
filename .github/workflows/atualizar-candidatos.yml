@@ -1,0 +1,46 @@
+name: Atualizar candidaturas do TSE
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-candidaturas
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Consultar o TSE
+        run: npm run update-data
+
+      - name: Publicar mudanças encontradas
+        shell: bash
+        run: |
+          if [[ -z "$(git status --porcelain -- data/candidatos.json fotos/)" ]]; then
+            echo "Nenhuma mudança oficial encontrada."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/candidatos.json fotos/
+          git commit -m "chore(dados): atualizar candidaturas do TSE"
+          git push

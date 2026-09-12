@@ -1,0 +1,16 @@
+{
+  "name": "candidatos-2026-rn",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Guia independente de candidaturas do RN com dados do TSE.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "update-data": "node scripts/atualizar-dados.mjs"
+  },
+  "dependencies": {
+    "fflate": "0.8.3"
+  }
+}
