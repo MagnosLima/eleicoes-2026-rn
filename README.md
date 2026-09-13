@@ -23,7 +23,7 @@ Guia eleitoral independente que reúne, em uma interface acessível e responsiva
 
 O workflow `.github/workflows/atualizar-candidatos.yml` é executado a cada 30 minutos. Ele consulta o DivulgaCand e os Dados Abertos do TSE, compara o resultado com a versão armazenada e cria um commit somente quando encontra mudanças.
 
-O navegador consulta o JSON e as fotos diretamente no GitHub, usando a versão publicada no Netlify como contingência. Assim, atualizações de dados não exigem novos deploys de produção e preservam os créditos da hospedagem.
+O navegador consulta o JSON e as fotos diretamente no GitHub, usando a versão publicada no Netlify como contingência. Assim, atualizações de dados não exigem novos deploys de produção e preservam os créditos da hospedagem. Os commits automáticos também recebem `[skip netlify]` como proteção adicional.
 
 ```text
 TSE → GitHub Actions → data/candidatos.json → navegador
