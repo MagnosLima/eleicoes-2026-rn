@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-09-14T22:40:57.096Z",
+  "fetchedAt": "2026-09-15T01:18:20.225Z",
   "sourceGeneratedAt": "14/09/2026 19:31:23",
   "sourceMode": "DivulgaCand",
   "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026",
   "counts": {
-    "Presidente": 13,
+    "Presidente": 14,
     "Governador": 9,
     "Senador": 14,
     "Deputado federal": 111,
@@ -91,6 +91,20 @@
       "ig": [
         "https://www.instagram.com/hertzdiaspstu?igsi=MXhhZmVxbDN1bHRmOA=="
       ]
+    },
+    {
+      "c": "Presidente",
+      "n": "LEONARDO AVALANCHE",
+      "p": "PRTB",
+      "num": "28",
+      "s": "Aguardando julgamento",
+      "col": "PRTB",
+      "id": "280002554479",
+      "uf": "BR",
+      "photo": "fotos/FBR280002554479_div.jpg",
+      "v": "LEONARDO AVALANCHE",
+      "vp": "PRTB",
+      "ig": []
     },
     {
       "c": "Presidente",
