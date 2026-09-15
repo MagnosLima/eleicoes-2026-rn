@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-09-15T01:18:20.225Z",
+  "fetchedAt": "2026-09-15T06:34:42.766Z",
   "sourceGeneratedAt": "14/09/2026 19:31:23",
   "sourceMode": "DivulgaCand",
   "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026",
@@ -102,7 +102,7 @@
       "id": "280002554479",
       "uf": "BR",
       "photo": "fotos/FBR280002554479_div.jpg",
-      "v": "LEONARDO AVALANCHE",
+      "v": "SILVIA",
       "vp": "PRTB",
       "ig": []
     },
@@ -133,7 +133,7 @@
       "id": "280002553884",
       "uf": "BR",
       "photo": "fotos/FBR280002553884_div.jpg",
-      "v": "LEONARDO AVALANCHE",
+      "v": "SILVIA",
       "vp": "PRTB",
       "ig": [
         "https://www.instagram.com/pablomarcal1/?hl=pt-br"
