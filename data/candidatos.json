@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-09-17T11:59:27.175Z",
-  "sourceGeneratedAt": "17/09/2026 08:31:24",
+  "fetchedAt": "2026-09-17T16:42:02.022Z",
+  "sourceGeneratedAt": "17/09/2026 12:31:32",
   "sourceMode": "DivulgaCand",
   "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026",
   "counts": {
@@ -122,14 +122,14 @@
       "v": "GERALDO ALCKMIN",
       "vp": "PSB",
       "ig": [
-        "https://www.instagram.com/comitepopularoficial",
-        "https://www.instagram.com/LULAOFICIAL?IGSH=NGRIZTRVMND4ZTJS",
-        "https://www.instagram.com/pode_espalhar",
-        "https://instagram.com/brasilquermais",
-        "https://www.instagram.com/evangelicoscomlula",
         "https://www.instagram.com/geracaolula",
         "https://www.instagram.com/lulaversoficial",
-        "https://instagram.com/BRASILCOMLULA"
+        "https://instagram.com/BRASILCOMLULA",
+        "https://www.instagram.com/comitepopularoficial",
+        "https://www.instagram.com/evangelicoscomlula",
+        "https://instagram.com/brasilquermais",
+        "https://www.instagram.com/pode_espalhar",
+        "https://www.instagram.com/LULAOFICIAL?IGSH=NGRIZTRVMND4ZTJS"
       ]
     },
     {
@@ -161,13 +161,13 @@
       "v": "CORONEL MEDINA",
       "vp": "MISSÃO",
       "ig": [
-        "https://www.instagram.com/nextfragments/",
-        "https://www.instagram.com/renansantosmbl/",
-        "https://www.instagram.com/renanvote14",
         "https://www.instagram.com/oncaviral/",
         "https://www.instagram.com/multiversoamarelo/",
+        "https://www.instagram.com/renanvote14",
+        "https://www.instagram.com/jaguatiricahub/",
+        "https://www.instagram.com/renansantosmbl/",
         "https://www.instagram.com/blackjaguarsquad/",
-        "https://www.instagram.com/jaguatiricahub/"
+        "https://www.instagram.com/nextfragments/"
       ]
     },
     {
@@ -231,12 +231,12 @@
       "v": "SUÊD HAIDAR",
       "vp": "DEMOCRATA",
       "ig": [
-        "https://www.instagram.com/WILSONGRASSIGUARULHOS/",
-        "https://www.instagram.com/CACHORREIROSDESAOPAULO/",
-        "https://www.instagram.com/GATEIROSDABAHIA/",
-        "https://www.instagram.com/VETERINARIOWILSONGRASSIOFICIAL/",
         "https://www.instagram.com/GATEIROSDESAOPAULO/",
-        "https://www.instagram.com/WWGRASSI/"
+        "https://www.instagram.com/VETERINARIOWILSONGRASSIOFICIAL/",
+        "https://www.instagram.com/GATEIROSDABAHIA/",
+        "https://www.instagram.com/WWGRASSI/",
+        "https://www.instagram.com/CACHORREIROSDESAOPAULO/",
+        "https://www.instagram.com/WILSONGRASSIGUARULHOS/"
       ]
     },
     {
@@ -268,9 +268,9 @@
       "v": "HERMANO",
       "vp": "MDB",
       "ig": [
-        "https://instagram.com/NATALQUEACREDITA",
+        "https://www.instagram.com/ALLYSONBEZERRA.RN",
         "https://instagram.com/167RAZOESRN",
-        "https://www.instagram.com/ALLYSONBEZERRA.RN"
+        "https://instagram.com/NATALQUEACREDITA"
       ]
     },
     {
@@ -516,8 +516,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002542483_div.jpg",
       "ig": [
-        "https://www.instagram.com/ROSALIAPSTU16?IGSH=MWP2CWXRDZUYNNPTDA==",
-        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
+        "https://www.instagram.com/ROSALIAPSTU16?IGSH=MWP2CWXRDZUYNNPTDA=="
       ]
     },
     {
@@ -573,8 +573,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002534448_div.jpg",
       "ig": [
-        "https://www.instagram.com/CAPITAOSTYVENSONSENADOR?IGSH=DDCZNM14YNDTYMY3",
-        "https://www.instagram.com/SENADORSTYVENSONVALENTIM?IGSH=MWJ6BHRSZGZXDDDWNG=="
+        "https://www.instagram.com/SENADORSTYVENSONVALENTIM?IGSH=MWJ6BHRSZGZXDDDWNG==",
+        "https://www.instagram.com/CAPITAOSTYVENSONSENADOR?IGSH=DDCZNM14YNDTYMY3"
       ]
     },
     {
@@ -836,7 +836,7 @@
       "p": "PT",
       "num": "1313",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533874",
       "uf": "RN",
       "photo": "fotos/FRN200002533874_div.jpg",
@@ -989,9 +989,9 @@
       "uf": "RN",
       "photo": "fotos/FRN200002546775_div.jpg",
       "ig": [
-        "https://www.instagram.com/DEBORAHSUELLEN28?IGSH=MWV3Z2M1M2XHC3Z4ZW==",
         "https://www.instagram.com/DEBORAHSUELLEN21?IGSH=MTDPZJHYADFVAJFXMW==",
-        "https://www.instagram.com/STUDIODEBORAHSUELLEN?IGSH=MWPSNGZRNW80ZHC2DQ=="
+        "https://www.instagram.com/STUDIODEBORAHSUELLEN?IGSH=MWPSNGZRNW80ZHC2DQ==",
+        "https://www.instagram.com/DEBORAHSUELLEN28?IGSH=MWV3Z2M1M2XHC3Z4ZW=="
       ]
     },
     {
@@ -1028,7 +1028,7 @@
       "p": "PV",
       "num": "4300",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533867",
       "uf": "RN",
       "photo": "fotos/FRN200002533867_div.jpg",
@@ -1142,9 +1142,9 @@
       "photo": "fotos/FRN200002535716_div.jpg",
       "ig": [
         "https://www.instagram.com/FAUSTINOBR_",
+        "https://www.instagram.com/FNNEWS_BR?IGSH=MTN2ZHJSCTAYC295MG==",
         "https://www.instagram.com/FAUSTINOBR_?IGSH=MXRUOWPSMDI5ZGNV",
-        "https://www.instagram.com/FAUSTINORN?IGSH=MTCZNNVUANJZCXM5BQ==",
-        "https://www.instagram.com/FNNEWS_BR?IGSH=MTN2ZHJSCTAYC295MG=="
+        "https://www.instagram.com/FAUSTINORN?IGSH=MTCZNNVUANJZCXM5BQ=="
       ]
     },
     {
@@ -1158,8 +1158,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547279_div.jpg",
       "ig": [
-        "https://instagram.com/felixsantos.rn",
-        "https://www.instagram.com/FELIXSANTOS.RN?IGSH=ZWQXCGRZNHP6CNJ2"
+        "https://www.instagram.com/FELIXSANTOS.RN?IGSH=ZWQXCGRZNHP6CNJ2",
+        "https://instagram.com/felixsantos.rn"
       ]
     },
     {
@@ -1382,8 +1382,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002535715_div.jpg",
       "ig": [
-        "https://www.instagram.com/JOAODASILVAMAIA",
-        "https://www.instagram.com/JOAOMAIA1111"
+        "https://www.instagram.com/JOAOMAIA1111",
+        "https://www.instagram.com/JOAODASILVAMAIA"
       ]
     },
     {
@@ -1432,7 +1432,7 @@
       "p": "PCDOB",
       "num": "6565",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533873",
       "uf": "RN",
       "photo": "fotos/FRN200002533873_div.jpg",
@@ -1486,7 +1486,7 @@
       "p": "PT",
       "num": "1300",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533870",
       "uf": "RN",
       "photo": "fotos/FRN200002533870_div.jpg",
@@ -1500,7 +1500,7 @@
       "p": "PT",
       "num": "1333",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533866",
       "uf": "RN",
       "photo": "fotos/FRN200002533866_div.jpg",
@@ -1566,7 +1566,7 @@
       "p": "PT",
       "num": "1311",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533872",
       "uf": "RN",
       "photo": "fotos/FRN200002533872_div.jpg",
@@ -1620,7 +1620,7 @@
       "p": "PT",
       "num": "1345",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533869",
       "uf": "RN",
       "photo": "fotos/FRN200002533869_div.jpg",
@@ -1747,8 +1747,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002546759_div.jpg",
       "ig": [
-        "https://www.instagram.com/PEDROPAULOCMATTOS?IGSH=MXVHNMP6Z3M0MMTNDA%3D%3D",
-        "https://www.instagram.com/PEDROCHE_PEDROPAULO?IGSH=ANV0EWJUBHHZOXJJ"
+        "https://www.instagram.com/PEDROCHE_PEDROPAULO?IGSH=ANV0EWJUBHHZOXJJ",
+        "https://www.instagram.com/PEDROPAULOCMATTOS?IGSH=MXVHNMP6Z3M0MMTNDA%3D%3D"
       ]
     },
     {
@@ -1829,8 +1829,8 @@
       "photo": "fotos/FRN200002546765_div.jpg",
       "ig": [
         "https://www.instagram.com/SAMELAGOMES_TERAPEUTA",
-        "https://www.instagram.com/SAMELAGOMESOFICIAL",
-        "https://www.instagram.com/SAMELATERAPEUTADEMULHERES"
+        "https://www.instagram.com/SAMELATERAPEUTADEMULHERES",
+        "https://www.instagram.com/SAMELAGOMESOFICIAL"
       ]
     },
     {
@@ -1867,13 +1867,13 @@
       "p": "PCDOB",
       "num": "6513",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533871",
       "uf": "RN",
       "photo": "fotos/FRN200002533871_div.jpg",
       "ig": [
-        "https://www.instagram.com/raposinha6513/",
-        "https://www.instagram.com/raposinha6513_/"
+        "https://www.instagram.com/raposinha6513_/",
+        "https://www.instagram.com/raposinha6513/"
       ]
     },
     {
@@ -1981,8 +1981,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002546766_div.jpg",
       "ig": [
-        "https://www.instagram.com/SUSAPEAUGUSTO?UTM_SOURCE=QR",
-        "https://www.instagram.com/SUSAPEANDO?UTM_SOURCE=QR"
+        "https://www.instagram.com/SUSAPEANDO?UTM_SOURCE=QR",
+        "https://www.instagram.com/SUSAPEAUGUSTO?UTM_SOURCE=QR"
       ]
     },
     {
@@ -2003,7 +2003,7 @@
       "p": "PV",
       "num": "4343",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533868",
       "uf": "RN",
       "photo": "fotos/FRN200002533868_div.jpg",
@@ -2101,8 +2101,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002552144_div.jpg",
       "ig": [
-        "https://www.instagram.com/XEXEUDENATAL/",
-        "https://www.instagram.com/XEXEUDENATALL/"
+        "https://www.instagram.com/XEXEUDENATALL/",
+        "https://www.instagram.com/XEXEUDENATAL/"
       ]
     },
     {
@@ -2179,7 +2179,7 @@
       "p": "PT",
       "num": "13777",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533865",
       "uf": "RN",
       "photo": "fotos/FRN200002533865_div.jpg",
@@ -2212,8 +2212,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002534348_div.jpg",
       "ig": [
-        "https://www.instagram.com/analuisa.rn",
-        "https://www.instagram.com/ANALUISA.RN/REELS/"
+        "https://www.instagram.com/ANALUISA.RN/REELS/",
+        "https://www.instagram.com/analuisa.rn"
       ]
     },
     {
@@ -2396,7 +2396,7 @@
       "p": "PCDOB",
       "num": "65123",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533859",
       "uf": "RN",
       "photo": "fotos/FRN200002533859_div.jpg",
@@ -2536,7 +2536,7 @@
       "p": "PT",
       "num": "13111",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533849",
       "uf": "RN",
       "photo": "fotos/FRN200002533849_div.jpg",
@@ -2578,7 +2578,7 @@
       "p": "PT",
       "num": "13882",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533848",
       "uf": "RN",
       "photo": "fotos/FRN200002533848_div.jpg",
@@ -2634,13 +2634,13 @@
       "p": "PT",
       "num": "13613",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533863",
       "uf": "RN",
       "photo": "fotos/FRN200002533863_div.jpg",
       "ig": [
-        "https://www.instagram.com/divaverso.oficial/",
-        "https://www.instagram.com/DIVANEIDEBASILIO/"
+        "https://www.instagram.com/DIVANEIDEBASILIO/",
+        "https://www.instagram.com/divaverso.oficial/"
       ]
     },
     {
@@ -2740,8 +2740,8 @@
       "photo": "fotos/FRN200002538231_div.jpg",
       "ig": [
         "https://www.instagram.com/dra.tatianecosta.oficial?stkn=cXAxd2Fub3VuOHE0",
-        "https://www.instagram.com/DOUTORATATI_COSTA/",
-        "https://www.instagram.com/dra.tatianecosta.oficial"
+        "https://www.instagram.com/dra.tatianecosta.oficial",
+        "https://www.instagram.com/DOUTORATATI_COSTA/"
       ]
     },
     {
@@ -2834,7 +2834,7 @@
       "p": "PV",
       "num": "43666",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533854",
       "uf": "RN",
       "photo": "fotos/FRN200002533854_div.jpg",
@@ -2904,7 +2904,7 @@
       "p": "PCDOB",
       "num": "65555",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533847",
       "uf": "RN",
       "photo": "fotos/FRN200002533847_div.jpg",
@@ -2932,7 +2932,7 @@
       "p": "PT",
       "num": "13222",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533860",
       "uf": "RN",
       "photo": "fotos/FRN200002533860_div.jpg",
@@ -3014,7 +3014,7 @@
       "p": "PT",
       "num": "13333",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533845",
       "uf": "RN",
       "photo": "fotos/FRN200002533845_div.jpg",
@@ -3082,7 +3082,7 @@
       "p": "PCDOB",
       "num": "65777",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533846",
       "uf": "RN",
       "photo": "fotos/FRN200002533846_div.jpg",
@@ -3164,7 +3164,7 @@
       "p": "PT",
       "num": "13123",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533862",
       "uf": "RN",
       "photo": "fotos/FRN200002533862_div.jpg",
@@ -3178,7 +3178,7 @@
       "p": "PT",
       "num": "13013",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533857",
       "uf": "RN",
       "photo": "fotos/FRN200002533857_div.jpg",
@@ -3220,7 +3220,7 @@
       "p": "PV",
       "num": "43333",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533853",
       "uf": "RN",
       "photo": "fotos/FRN200002533853_div.jpg",
@@ -3288,7 +3288,7 @@
       "p": "PT",
       "num": "13713",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533851",
       "uf": "RN",
       "photo": "fotos/FRN200002533851_div.jpg",
@@ -3332,7 +3332,7 @@
       "p": "PT",
       "num": "13113",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533850",
       "uf": "RN",
       "photo": "fotos/FRN200002533850_div.jpg",
@@ -3351,9 +3351,9 @@
       "uf": "RN",
       "photo": "fotos/FRN200002535726_div.jpg",
       "ig": [
+        "https://www.instagram.com/EUSOUJULIOCESARCAMARARN?IGSH=MXBKAWZRNM5KA3FWZQ==",
         "https://www.instagram.com/TIMEJULIOCESAR?IGSH=ZZB5DDFLAJE1NWN3",
-        "https://www.instagram.com/CHANNEL/ABYMTPEGDR7YEOV4/",
-        "https://www.instagram.com/EUSOUJULIOCESARCAMARARN?IGSH=MXBKAWZRNM5KA3FWZQ=="
+        "https://www.instagram.com/CHANNEL/ABYMTPEGDR7YEOV4/"
       ]
     },
     {
@@ -3416,7 +3416,7 @@
       "p": "PV",
       "num": "43000",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533861",
       "uf": "RN",
       "photo": "fotos/FRN200002533861_div.jpg",
@@ -3505,8 +3505,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002548557_div.jpg",
       "ig": [
-        "https://www.instagram.com/lourenco50100",
-        "https://www.instagram.com/LOURENCOCAPRI?IGSH=Z3U1DMVVDWROAMJ4"
+        "https://www.instagram.com/LOURENCOCAPRI?IGSH=Z3U1DMVVDWROAMJ4",
+        "https://www.instagram.com/lourenco50100"
       ]
     },
     {
@@ -3667,7 +3667,7 @@
       "p": "PV",
       "num": "43100",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533855",
       "uf": "RN",
       "photo": "fotos/FRN200002533855_div.jpg",
@@ -3793,7 +3793,7 @@
       "p": "PT",
       "num": "13000",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533858",
       "uf": "RN",
       "photo": "fotos/FRN200002533858_div.jpg",
@@ -3882,8 +3882,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002542489_div.jpg",
       "ig": [
-        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
-        "https://www.instagram.com/ANACELIA_SIQUEIRA?IGSH=MWRMB3RKNMROOGH6DA=="
+        "https://www.instagram.com/ANACELIA_SIQUEIRA?IGSH=MWRMB3RKNMROOGH6DA==",
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
       ]
     },
     {
@@ -4041,13 +4041,13 @@
       "p": "PV",
       "num": "43123",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533852",
       "uf": "RN",
       "photo": "fotos/FRN200002533852_div.jpg",
       "ig": [
-        "https://www.instagram.com/RONNY.HOLANDA?UTM_SOURCE=QR&IGSH=OHBWM2VRYJLND3%20JL",
-        "https://www.instagram.com/POLITICASDORN?UTM_SOURCE=QR&IGSH=MXM5OWS0CMJRE%20DJKDQ%3"
+        "https://www.instagram.com/POLITICASDORN?UTM_SOURCE=QR&IGSH=MXM5OWS0CMJRE%20DJKDQ%3",
+        "https://www.instagram.com/RONNY.HOLANDA?UTM_SOURCE=QR&IGSH=OHBWM2VRYJLND3%20JL"
       ]
     },
     {
@@ -4159,8 +4159,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002542490_div.jpg",
       "ig": [
-        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
-        "https://www.instagram.com/TIAGOPSTU16?IGSH=MW5HNDR0MDEYNJFYMG=="
+        "https://www.instagram.com/TIAGOPSTU16?IGSH=MW5HNDR0MDEYNJFYMG==",
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
       ]
     },
     {
@@ -4183,7 +4183,7 @@
       "p": "PV",
       "num": "43222",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533864",
       "uf": "RN",
       "photo": "fotos/FRN200002533864_div.jpg",
@@ -4197,7 +4197,7 @@
       "p": "PV",
       "num": "43777",
       "s": "Deferido",
-      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/45-PV)",
+      "col": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
       "id": "200002533856",
       "uf": "RN",
       "photo": "fotos/FRN200002533856_div.jpg",
