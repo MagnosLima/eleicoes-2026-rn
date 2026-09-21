@@ -17,7 +17,11 @@ Guia eleitoral independente que reúne, em uma interface acessível e responsiva
 - Situação atual da candidatura e redes sociais declaradas ao TSE.
 - Fotos oficiais com alternativa textual quando a imagem não está disponível.
 - Layout responsivo, navegação por teclado e versão otimizada para impressão.
+- Montagem guiada de cola eleitoral na ordem oficial da urna.
+- Cola salva somente no navegador, com exportação em imagem, impressão/PDF e compartilhamento.
 - Cópia local de contingência para indisponibilidades externas.
+
+As escolhas da cola usam `localStorage`: não exigem conta, banco de dados ou função no servidor e não são enviadas pelo site. Por segurança, a página orienta a imprimir a cola, pois aparelhos eletrônicos não podem entrar na cabine de votação.
 
 ## Atualização automática
 

@@ -627,6 +627,106 @@
       *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
     }
 
+    .ballot-cta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      margin: -12px 0 34px;
+      padding: 22px 24px;
+      overflow: hidden;
+      border: 1px solid rgba(101,72,245,.18);
+      border-radius: 20px;
+      background: linear-gradient(115deg, #17152f, #30256f 62%, #315d78);
+      color: #fff;
+      box-shadow: 0 18px 45px rgba(39,34,91,.15);
+    }
+    .ballot-cta-copy { display: grid; gap: 5px; }
+    .ballot-cta strong { font-size: 20px; letter-spacing: -.02em; }
+    .ballot-cta p { margin: 0; color: rgba(255,255,255,.72); font-size: 13px; }
+    .ballot-launch {
+      flex: 0 0 auto;
+      min-height: 48px;
+      padding: 0 19px;
+      border: 0;
+      border-radius: 13px;
+      background: linear-gradient(135deg, #7658ff, #45d9c8);
+      color: #fff;
+      font: inherit;
+      font-weight: 800;
+      cursor: pointer;
+      box-shadow: 0 10px 24px rgba(0,0,0,.2);
+    }
+    .ballot-dialog {
+      width: min(760px, calc(100% - 28px));
+      max-height: min(860px, calc(100dvh - 28px));
+      padding: 0;
+      overflow: hidden;
+      border: 0;
+      border-radius: 24px;
+      background: #f7f7fb;
+      color: var(--ink);
+      box-shadow: 0 30px 100px rgba(10,9,30,.38);
+    }
+    .ballot-dialog::backdrop { background: rgba(12,10,35,.72); backdrop-filter: blur(7px); }
+    .ballot-shell { display: flex; flex-direction: column; max-height: min(860px, calc(100dvh - 28px)); }
+    .ballot-head { display: flex; justify-content: space-between; gap: 20px; padding: 24px 26px 18px; background: #fff; border-bottom: 1px solid var(--line); }
+    .ballot-eyebrow { margin: 0 0 5px; color: var(--primary); font-size: 10px; font-weight: 850; letter-spacing: .14em; text-transform: uppercase; }
+    .ballot-head h2 { margin: 0; font-size: 25px; letter-spacing: -.035em; }
+    .ballot-close { align-self: flex-start; width: 38px; height: 38px; border: 0; border-radius: 11px; background: #efeff6; color: var(--ink); font-size: 24px; cursor: pointer; }
+    .ballot-progress { height: 5px; background: #e5e3ef; }
+    .ballot-progress span { display: block; height: 100%; background: linear-gradient(90deg, var(--primary), var(--mint)); transition: width .25s ease; }
+    .ballot-body { min-height: 0; padding: 22px 26px; overflow-y: auto; }
+    .ballot-step-title { margin: 0 0 5px; font-size: 24px; letter-spacing: -.035em; }
+    .ballot-step-help { margin: 0 0 18px; color: var(--muted); font-size: 13px; }
+    .ballot-search { width: 100%; min-height: 48px; padding: 0 15px; border: 1px solid var(--line); border-radius: 13px; background: #fff; color: var(--ink); font: inherit; }
+    .ballot-options { display: grid; gap: 9px; margin-top: 14px; }
+    .ballot-option { display: grid; grid-template-columns: 62px minmax(0,1fr) auto; align-items: center; gap: 14px; width: 100%; padding: 11px; border: 1px solid var(--line); border-radius: 15px; background: #fff; color: var(--ink); text-align: left; cursor: pointer; }
+    .ballot-option:hover, .ballot-option.is-selected { border-color: var(--primary); box-shadow: 0 7px 20px rgba(101,72,245,.12); }
+    .ballot-option.is-selected { background: #f1efff; }
+    .ballot-option-number { display: grid; place-items: center; min-height: 52px; border-radius: 11px; background: linear-gradient(145deg,#ebe8ff,#e4faf7); color: var(--primary-dark); font-size: 19px; font-weight: 900; }
+    .ballot-option-copy { min-width: 0; }
+    .ballot-option-copy strong { display: block; overflow-wrap: anywhere; font-size: 14px; }
+    .ballot-option-copy span { display: block; margin-top: 4px; color: var(--muted); font-size: 11px; }
+    .ballot-check { color: var(--primary); font-size: 21px; font-weight: 900; }
+    .ballot-empty { padding: 28px 16px; color: var(--muted); text-align: center; }
+    .ballot-summary { display: grid; gap: 9px; margin-top: 18px; }
+    .ballot-summary-item { display: grid; grid-template-columns: 34px minmax(0,1fr) auto; align-items: center; gap: 12px; padding: 13px; border: 1px solid var(--line); border-radius: 14px; background: #fff; }
+    .ballot-summary-step { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 10px; background: #edeaff; color: var(--primary); font-size: 11px; font-weight: 900; }
+    .ballot-summary-copy small { display: block; color: var(--muted); font-size: 10px; font-weight: 800; text-transform: uppercase; }
+    .ballot-summary-copy strong { display: block; margin-top: 3px; font-size: 14px; }
+    .ballot-summary-number { color: var(--primary-dark); font-size: 18px; font-weight: 900; }
+    .ballot-warning { margin: 18px 0 0; padding: 14px 16px; border-radius: 13px; background: #fff7dc; color: #664f00; font-size: 12px; line-height: 1.5; }
+    .ballot-warning a { color: inherit; font-weight: 800; }
+    .ballot-actions { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 16px; }
+    .ballot-action { min-height: 43px; padding: 0 14px; border: 1px solid var(--line); border-radius: 11px; background: #fff; color: var(--ink); font: inherit; font-size: 12px; font-weight: 800; cursor: pointer; }
+    .ballot-action.primary { border-color: transparent; background: var(--primary); color: #fff; }
+    .ballot-action.whatsapp { border-color: transparent; background: #168c57; color: #fff; }
+    .ballot-privacy { margin: 14px 0 0; color: var(--muted); font-size: 11px; }
+    .ballot-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 15px 26px; border-top: 1px solid var(--line); background: #fff; }
+    .ballot-foot-group { display: flex; gap: 8px; }
+    .ballot-nav { min-height: 42px; padding: 0 15px; border: 1px solid var(--line); border-radius: 11px; background: #fff; color: var(--ink); font: inherit; font-weight: 800; cursor: pointer; }
+    .ballot-nav.next { border-color: transparent; background: var(--ink); color: #fff; }
+    .ballot-nav:disabled { opacity: .42; cursor: not-allowed; }
+    .ballot-toast { position: fixed; right: 18px; bottom: 18px; z-index: 50; max-width: 340px; padding: 13px 16px; border-radius: 12px; background: #17152f; color: #fff; box-shadow: var(--shadow); font-size: 12px; opacity: 0; pointer-events: none; transform: translateY(10px); transition: .2s ease; }
+    .ballot-toast.is-visible { opacity: 1; transform: translateY(0); }
+    .ballot-print { display: none; }
+
+    @media (max-width: 640px) {
+      .ballot-cta { align-items: stretch; flex-direction: column; margin-top: -4px; padding: 19px; }
+      .ballot-launch { width: 100%; }
+      .ballot-dialog { width: 100%; max-width: none; max-height: 100dvh; height: 100dvh; border-radius: 0; }
+      .ballot-shell { max-height: 100dvh; height: 100dvh; }
+      .ballot-head { padding: 18px 17px 14px; }
+      .ballot-head h2 { font-size: 21px; }
+      .ballot-body { padding: 18px 16px; }
+      .ballot-step-title { font-size: 21px; }
+      .ballot-option { grid-template-columns: 55px minmax(0,1fr) auto; gap: 10px; }
+      .ballot-foot { padding: 12px 16px; }
+      .ballot-nav { padding: 0 12px; font-size: 12px; }
+      .ballot-summary-item { grid-template-columns: 30px minmax(0,1fr) auto; padding: 11px; }
+    }
+
     @media print {
       @page { size: A4 portrait; margin: 9mm 8mm 11mm; }
       * { box-shadow: none !important; text-shadow: none !important; }
@@ -680,6 +780,17 @@
       .detail b { font-size: 5.2pt; }
       .status { gap: 1mm; }
       .status::before { width: 1.2mm; height: 1.2mm; box-shadow: none; }
+      body.printing-ballot > *:not(.ballot-print) { display: none !important; }
+      body.printing-ballot .ballot-print { display: block !important; color: #111; font-family: Arial, sans-serif; }
+      .ballot-print h1 { margin: 0 0 2mm; font-size: 22pt; }
+      .ballot-print > p { margin: 0 0 6mm; color: #555; }
+      .ballot-print-row { display: grid; grid-template-columns: 10mm 48mm minmax(0,1fr) 25mm; align-items: center; gap: 3mm; padding: 4mm 0; border-top: .6pt solid #aaa; }
+      .ballot-print-step { font-size: 11pt; font-weight: 900; }
+      .ballot-print-office { font-size: 9pt; font-weight: 700; }
+      .ballot-print-name { font-size: 11pt; font-weight: 800; }
+      .ballot-print-name small { display: block; margin-top: 1mm; color: #555; font-size: 7pt; font-weight: 400; }
+      .ballot-print-number { text-align: right; font-size: 18pt; font-weight: 900; }
+      .ballot-print-warning { margin-top: 7mm; padding: 3mm; border: .7pt solid #777; font-size: 8pt; }
     }
   </style>
 </head>
@@ -724,6 +835,14 @@
       </ol>
     </section>
 
+    <section class="ballot-cta" aria-labelledby="ballot-cta-title">
+      <div class="ballot-cta-copy">
+        <strong id="ballot-cta-title">Monte sua cola eleitoral</strong>
+        <p id="ballot-saved-status">Escolha os seis votos na ordem da urna e salve tudo neste dispositivo.</p>
+      </div>
+      <button class="ballot-launch" id="open-ballot" type="button">Criar minha cola</button>
+    </section>
+
     <section class="controls" aria-label="Filtros de candidatos">
       <div class="control-row">
         <label class="input-wrap">
@@ -754,6 +873,29 @@
       <p>Este é um projeto independente, sem vínculo com a Justiça Eleitoral. As candidaturas podem sofrer alterações até a eleição. Nomes, números, partidos, situações e redes sociais são consultados nos dados do Tribunal Superior Eleitoral (TSE). <span id="data-update">Carregando a atualização mais recente…</span> Para confirmação, consulte o <a href="https://divulgacandcontas.tse.jus.br/divulga/" target="_blank" rel="noopener noreferrer">DivulgaCand oficial</a>.</p>
     </aside>
   </main>
+
+  <dialog class="ballot-dialog" id="ballot-dialog" aria-labelledby="ballot-dialog-title">
+    <div class="ballot-shell">
+      <header class="ballot-head">
+        <div>
+          <p class="ballot-eyebrow" id="ballot-progress-label">Cola eleitoral 2026</p>
+          <h2 id="ballot-dialog-title">Monte seus votos</h2>
+        </div>
+        <button class="ballot-close" id="close-ballot" type="button" aria-label="Fechar">&times;</button>
+      </header>
+      <div class="ballot-progress" aria-hidden="true"><span id="ballot-progress-bar"></span></div>
+      <div class="ballot-body" id="ballot-body"></div>
+      <footer class="ballot-foot" id="ballot-foot">
+        <button class="ballot-nav" id="ballot-back" type="button">Voltar</button>
+        <div class="ballot-foot-group">
+          <button class="ballot-nav" id="ballot-skip" type="button">Pular</button>
+          <button class="ballot-nav next" id="ballot-next" type="button">Continuar</button>
+        </div>
+      </footer>
+    </div>
+  </dialog>
+  <section class="ballot-print" id="ballot-print" aria-hidden="true"></section>
+  <div class="ballot-toast" id="ballot-toast" role="status" aria-live="polite"></div>
 
   <footer>
     <div class="shell">
@@ -812,6 +954,233 @@
     const state = { office: "Todos", party: "", query: "" };
     const normalize = value => String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
     const escapeHtml = value => String(value || "").replace(/[&<>"']/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#039;" })[char]);
+
+    const BALLOT_STORAGE_KEY = "eleicoes2026rn.cola.v1";
+    const ballotSteps = [
+      { key: "federal", office: "Deputado federal", title: "Deputado federal" },
+      { key: "state", office: "Deputado estadual", title: "Deputado estadual" },
+      { key: "senator1", office: "Senador", title: "Senador — primeira vaga" },
+      { key: "senator2", office: "Senador", title: "Senador — segunda vaga" },
+      { key: "governor", office: "Governador", title: "Governador e vice-governador" },
+      { key: "president", office: "Presidente", title: "Presidente e vice-presidente" }
+    ];
+    let ballotState = { version: 1, selections: {}, updatedAt: "" };
+    let ballotStepIndex = 0;
+    let ballotQuery = "";
+    let toastTimer = null;
+
+    function loadBallotState() {
+      try {
+        const saved = JSON.parse(localStorage.getItem(BALLOT_STORAGE_KEY));
+        if (saved?.version === 1 && saved.selections && typeof saved.selections === "object") ballotState = saved;
+      } catch (error) {
+        console.warn("Não foi possível carregar a cola salva.", error);
+      }
+    }
+
+    function saveBallotState() {
+      ballotState.updatedAt = new Date().toISOString();
+      try { localStorage.setItem(BALLOT_STORAGE_KEY, JSON.stringify(ballotState)); } catch (error) {
+        console.warn("Não foi possível salvar a cola neste navegador.", error);
+      }
+      updateBallotStatus();
+    }
+
+    function ballotSnapshot(item) {
+      return { id: item.id || "", c: item.c, n: item.n, p: item.p, num: item.num, v: item.v || "", vp: item.vp || "" };
+    }
+
+    function sameCandidate(a, b) {
+      return Boolean(a && b && ((a.id && b.id && a.id === b.id) || (a.c === b.c && a.num === b.num)));
+    }
+
+    function updateBallotStatus() {
+      const count = ballotSteps.filter(step => ballotState.selections[step.key]).length;
+      const status = document.querySelector("#ballot-saved-status");
+      const button = document.querySelector("#open-ballot");
+      if (!status || !button) return;
+      status.textContent = count
+        ? `${count} de 6 escolhas salvas somente neste dispositivo.`
+        : "Escolha os seis votos na ordem da urna e salve tudo neste dispositivo.";
+      button.textContent = count ? "Continuar minha cola" : "Criar minha cola";
+    }
+
+    function showBallotToast(message) {
+      const toast = document.querySelector("#ballot-toast");
+      toast.textContent = message;
+      toast.classList.add("is-visible");
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toast.classList.remove("is-visible"), 2800);
+    }
+
+    function ballotCandidates(step) {
+      const otherSenatorKey = step.key === "senator1" ? "senator2" : step.key === "senator2" ? "senator1" : "";
+      const otherSenator = otherSenatorKey ? ballotState.selections[otherSenatorKey] : null;
+      const query = normalize(ballotQuery);
+      return candidates
+        .filter(item => item.c === step.office && !sameCandidate(item, otherSenator))
+        .filter(item => normalize([item.n, item.num, item.p, item.v].join(" ")).includes(query))
+        .sort((a, b) => a.n.localeCompare(b.n, "pt-BR"));
+    }
+
+    function ballotSummaryHtml() {
+      return ballotSteps.map((step, index) => {
+        const item = ballotState.selections[step.key];
+        const vice = item?.v ? ` · Vice: ${escapeHtml(item.v)} (${escapeHtml(item.vp)})` : "";
+        return `<div class="ballot-summary-item">
+          <span class="ballot-summary-step">${String(index + 1).padStart(2, "0")}</span>
+          <span class="ballot-summary-copy"><small>${escapeHtml(step.title)}</small><strong>${item ? `${escapeHtml(item.n)} · ${escapeHtml(item.p)}${vice}` : "Não selecionado"}</strong></span>
+          <span class="ballot-summary-number">${item ? escapeHtml(item.num) : "—"}</span>
+        </div>`;
+      }).join("");
+    }
+
+    function renderBallot() {
+      const body = document.querySelector("#ballot-body");
+      const foot = document.querySelector("#ballot-foot");
+      const progress = document.querySelector("#ballot-progress-bar");
+      const label = document.querySelector("#ballot-progress-label");
+      const isSummary = ballotStepIndex >= ballotSteps.length;
+      progress.style.width = `${((Math.min(ballotStepIndex, 5) + 1) / 6) * 100}%`;
+      label.textContent = isSummary ? "Sua cola está pronta" : `Escolha ${ballotStepIndex + 1} de 6`;
+
+      if (isSummary) {
+        body.innerHTML = `<h3 class="ballot-step-title">Confira sua cola eleitoral</h3>
+          <p class="ballot-step-help">Você pode voltar e alterar qualquer escolha antes de baixar ou compartilhar.</p>
+          <div class="ballot-summary">${ballotSummaryHtml()}</div>
+          <p class="ballot-warning"><strong>Leve a versão em papel.</strong> O celular e outros equipamentos eletrônicos não podem entrar na cabine de votação. <a href="https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/por-dentro-das-eleicoes-confira-as-regras-para-o-dia-da-votacao" target="_blank" rel="noopener noreferrer">Ver orientação do TSE</a>.</p>
+          <div class="ballot-actions">
+            <button class="ballot-action primary" type="button" data-ballot-action="image">Baixar imagem</button>
+            <button class="ballot-action" type="button" data-ballot-action="pdf">Salvar em PDF</button>
+            <button class="ballot-action whatsapp" type="button" data-ballot-action="whatsapp">Compartilhar no WhatsApp</button>
+            <button class="ballot-action" type="button" data-ballot-action="share">Compartilhar</button>
+            <button class="ballot-action" type="button" data-ballot-action="reset">Limpar cola</button>
+          </div>
+          <p class="ballot-privacy">Privacidade: suas escolhas ficam somente neste navegador. Nenhum voto é enviado ou armazenado pelo site.</p>`;
+        foot.hidden = true;
+        return;
+      }
+
+      foot.hidden = false;
+      const step = ballotSteps[ballotStepIndex];
+      const selected = ballotState.selections[step.key];
+      const options = ballotCandidates(step);
+      body.innerHTML = `<h3 class="ballot-step-title">${escapeHtml(step.title)}</h3>
+        <p class="ballot-step-help">Busque pelo nome, número ou partido e toque para selecionar.</p>
+        <input class="ballot-search" id="ballot-search" type="search" value="${escapeHtml(ballotQuery)}" placeholder="Buscar candidato..." autocomplete="off" aria-label="Buscar candidato para ${escapeHtml(step.title)}">
+        <div class="ballot-options">${options.length ? options.map(item => {
+          const active = sameCandidate(item, selected);
+          const vice = item.v ? ` · Vice: ${escapeHtml(item.v)}` : "";
+          return `<button class="ballot-option${active ? " is-selected" : ""}" type="button" data-ballot-id="${escapeHtml(item.id || `${item.c}|${item.num}`)}">
+            <span class="ballot-option-number">${escapeHtml(item.num)}</span>
+            <span class="ballot-option-copy"><strong>${escapeHtml(item.n)}</strong><span>${escapeHtml(item.p)}${vice}</span></span>
+            <span class="ballot-check" aria-hidden="true">${active ? "✓" : ""}</span>
+          </button>`;
+        }).join("") : '<p class="ballot-empty">Nenhum candidato encontrado para esta busca.</p>'}</div>`;
+      document.querySelector("#ballot-back").disabled = ballotStepIndex === 0;
+      document.querySelector("#ballot-next").disabled = !selected;
+      document.querySelector("#ballot-next").textContent = ballotStepIndex === 5 ? "Ver cola" : "Continuar";
+    }
+
+    function openBallot() {
+      ballotStepIndex = ballotSteps.findIndex(step => !ballotState.selections[step.key]);
+      if (ballotStepIndex < 0) ballotStepIndex = ballotSteps.length;
+      ballotQuery = "";
+      renderBallot();
+      const dialog = document.querySelector("#ballot-dialog");
+      if (typeof dialog.showModal === "function") dialog.showModal(); else dialog.setAttribute("open", "");
+    }
+
+    function closeBallot() {
+      const dialog = document.querySelector("#ballot-dialog");
+      if (typeof dialog.close === "function") dialog.close(); else dialog.removeAttribute("open");
+    }
+
+    function ballotText() {
+      const lines = ballotSteps.map((step, index) => {
+        const item = ballotState.selections[step.key];
+        return `${index + 1}. ${step.title}: ${item ? `${item.n} (${item.p}) — ${item.num}` : "não selecionado"}`;
+      });
+      return `Minha cola eleitoral 2026 — RN\n\n${lines.join("\n")}\n\nConfira os dados no DivulgaCand/TSE. Leve a cola impressa: celular não pode entrar na cabine.`;
+    }
+
+    function drawWrappedText(context, text, x, y, maxWidth, lineHeight, maxLines = 2) {
+      const words = String(text).split(/\s+/);
+      const lines = [];
+      let line = "";
+      words.forEach(word => {
+        const test = line ? `${line} ${word}` : word;
+        if (context.measureText(test).width > maxWidth && line) { lines.push(line); line = word; } else line = test;
+      });
+      if (line) lines.push(line);
+      lines.slice(0, maxLines).forEach((value, index) => context.fillText(value, x, y + index * lineHeight));
+    }
+
+    async function ballotImageBlob() {
+      const canvas = document.createElement("canvas");
+      canvas.width = 1080; canvas.height = 1350;
+      const ctx = canvas.getContext("2d");
+      const gradient = ctx.createLinearGradient(0, 0, 1080, 1350);
+      gradient.addColorStop(0, "#17152f"); gradient.addColorStop(.62, "#30256f"); gradient.addColorStop(1, "#236d78");
+      ctx.fillStyle = gradient; ctx.fillRect(0, 0, 1080, 1350);
+      ctx.fillStyle = "#50dfcc"; ctx.fillRect(70, 72, 85, 9);
+      ctx.fillStyle = "#ffffff"; ctx.font = "800 58px Arial"; ctx.fillText("Minha cola eleitoral", 70, 155);
+      ctx.fillStyle = "#aef5e9"; ctx.font = "700 26px Arial"; ctx.fillText("ELEIÇÕES 2026 · RIO GRANDE DO NORTE", 70, 202);
+      ballotSteps.forEach((step, index) => {
+        const item = ballotState.selections[step.key];
+        const y = 255 + index * 150;
+        ctx.fillStyle = "rgba(255,255,255,.10)"; ctx.beginPath(); ctx.roundRect(70, y, 940, 126, 20); ctx.fill();
+        ctx.fillStyle = "#826aff"; ctx.beginPath(); ctx.roundRect(90, y + 25, 76, 76, 17); ctx.fill();
+        ctx.fillStyle = "#ffffff"; ctx.font = "800 25px Arial"; ctx.textAlign = "center"; ctx.fillText(String(index + 1).padStart(2, "0"), 128, y + 73); ctx.textAlign = "left";
+        ctx.fillStyle = "#bfc1d8"; ctx.font = "700 18px Arial"; ctx.fillText(step.title.toUpperCase(), 195, y + 38);
+        ctx.fillStyle = "#ffffff"; ctx.font = "800 29px Arial"; drawWrappedText(ctx, item?.n || "NÃO SELECIONADO", 195, y + 77, 600, 32, 2);
+        ctx.fillStyle = "#ffffff"; ctx.font = "900 39px Arial"; ctx.textAlign = "right"; ctx.fillText(item?.num || "—", 980, y + 78); ctx.textAlign = "left";
+      });
+      ctx.fillStyle = "#ffffff"; ctx.font = "700 21px Arial"; ctx.fillText("Confira os dados no DivulgaCand/TSE antes de votar.", 70, 1208);
+      ctx.fillStyle = "#aef5e9"; ctx.font = "700 20px Arial"; ctx.fillText("Imprima esta cola: celular não pode entrar na cabine de votação.", 70, 1247);
+      ctx.fillStyle = "rgba(255,255,255,.55)"; ctx.font = "18px Arial"; ctx.fillText("candidatos-rn-2026.netlify.app", 70, 1300);
+      return new Promise(resolve => canvas.toBlob(resolve, "image/png", 1));
+    }
+
+    function downloadBlob(blob, filename) {
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a"); link.href = url; link.download = filename; link.click();
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+    }
+
+    function prepareBallotPrint() {
+      document.querySelector("#ballot-print").innerHTML = `<h1>Minha cola eleitoral 2026</h1><p>Rio Grande do Norte · ordem oficial da urna</p>${ballotSteps.map((step, index) => {
+        const item = ballotState.selections[step.key];
+        const vice = item?.v ? `<small>Vice: ${escapeHtml(item.v)} (${escapeHtml(item.vp)})</small>` : "";
+        return `<div class="ballot-print-row"><span class="ballot-print-step">${String(index + 1).padStart(2, "0")}</span><span class="ballot-print-office">${escapeHtml(step.title)}</span><span class="ballot-print-name">${item ? `${escapeHtml(item.n)} · ${escapeHtml(item.p)}${vice}` : "Não selecionado"}</span><span class="ballot-print-number">${item ? escapeHtml(item.num) : "—"}</span></div>`;
+      }).join("")}<p class="ballot-print-warning"><strong>Importante:</strong> confira os dados no DivulgaCand/TSE. Leve esta folha: celular e outros equipamentos eletrônicos não podem entrar na cabine de votação.</p>`;
+    }
+
+    async function handleBallotAction(action) {
+      if (action === "reset") {
+        if (!confirm("Deseja apagar todas as escolhas desta cola?")) return;
+        ballotState = { version: 1, selections: {}, updatedAt: "" }; saveBallotState(); ballotStepIndex = 0; renderBallot(); return;
+      }
+      if (action === "pdf") {
+        prepareBallotPrint(); document.body.classList.add("printing-ballot"); closeBallot();
+        setTimeout(() => window.print(), 80); return;
+      }
+      if (action === "whatsapp") {
+        window.open(`https://wa.me/?text=${encodeURIComponent(ballotText())}`, "_blank", "noopener,noreferrer"); return;
+      }
+      const blob = await ballotImageBlob();
+      if (!blob) { showBallotToast("Não foi possível gerar a imagem."); return; }
+      if (action === "image") { downloadBlob(blob, "cola-eleitoral-2026-rn.png"); return; }
+      const file = new File([blob], "cola-eleitoral-2026-rn.png", { type: "image/png" });
+      if (navigator.share && (!navigator.canShare || navigator.canShare({ files: [file] }))) {
+        try { await navigator.share({ title: "Minha cola eleitoral 2026", text: "Minha cola eleitoral para as Eleições 2026 no RN.", files: [file] }); } catch (error) {
+          if (error.name !== "AbortError") showBallotToast("Compartilhamento cancelado ou indisponível.");
+        }
+      } else {
+        downloadBlob(blob, "cola-eleitoral-2026-rn.png");
+        showBallotToast("Imagem baixada. Agora você pode anexá-la à rede social.");
+      }
+    }
 
     function candidateMatches(item) {
       const officeMatch = state.office === "Todos" || item.c === state.office;
@@ -978,6 +1347,7 @@
         renderControls();
         document.querySelector("#party").value = state.party;
         render();
+        if (document.querySelector("#ballot-dialog").open) renderBallot();
 
         const updatedAt = formatUpdate(payload.fetchedAt);
         status.textContent = `Fonte: TSE · atualização ${updatedAt}`;
@@ -1005,6 +1375,43 @@
       render();
     });
 
+    document.querySelector("#open-ballot").addEventListener("click", openBallot);
+    document.querySelector("#close-ballot").addEventListener("click", closeBallot);
+    document.querySelector("#ballot-dialog").addEventListener("click", event => {
+      if (event.target === event.currentTarget) closeBallot();
+    });
+    document.querySelector("#ballot-body").addEventListener("input", event => {
+      if (event.target.id !== "ballot-search") return;
+      ballotQuery = event.target.value;
+      const cursor = ballotQuery.length;
+      renderBallot();
+      const input = document.querySelector("#ballot-search"); input.focus(); input.setSelectionRange(cursor, cursor);
+    });
+    document.querySelector("#ballot-body").addEventListener("click", event => {
+      const option = event.target.closest("[data-ballot-id]");
+      if (option) {
+        const step = ballotSteps[ballotStepIndex];
+        const item = ballotCandidates(step).find(candidate => String(candidate.id || `${candidate.c}|${candidate.num}`) === option.dataset.ballotId);
+        if (item) { ballotState.selections[step.key] = ballotSnapshot(item); saveBallotState(); renderBallot(); }
+        return;
+      }
+      const action = event.target.closest("[data-ballot-action]");
+      if (action) handleBallotAction(action.dataset.ballotAction);
+    });
+    document.querySelector("#ballot-back").addEventListener("click", () => {
+      if (ballotStepIndex > 0) { ballotStepIndex -= 1; ballotQuery = ""; renderBallot(); }
+    });
+    document.querySelector("#ballot-skip").addEventListener("click", () => {
+      ballotStepIndex = Math.min(ballotStepIndex + 1, ballotSteps.length); ballotQuery = ""; renderBallot();
+    });
+    document.querySelector("#ballot-next").addEventListener("click", () => {
+      if (!ballotState.selections[ballotSteps[ballotStepIndex]?.key]) return;
+      ballotStepIndex = Math.min(ballotStepIndex + 1, ballotSteps.length); ballotQuery = ""; renderBallot();
+    });
+    window.addEventListener("afterprint", () => document.body.classList.remove("printing-ballot"));
+
+    loadBallotState();
+    updateBallotStatus();
     renderSummary();
     renderControls();
     render();
