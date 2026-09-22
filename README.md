@@ -1,6 +1,7 @@
 # Candidatos 2026 — Rio Grande do Norte
 
 [![Site no ar](https://img.shields.io/badge/site-no%20ar-00c7b7?style=for-the-badge&logo=netlify&logoColor=white)](https://candidatos-rn-2026.netlify.app/)
+[![Nova função: cola eleitoral](https://img.shields.io/badge/nova%20fun%C3%A7%C3%A3o-cola%20eleitoral-6548f5?style=for-the-badge)](https://candidatos-rn-2026.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a46246a2-ed1b-4586-a43a-e2ddc5b65e91/deploy-status)](https://app.netlify.com/projects/candidatos-rn-2026/deploys)
 [![Atualizar candidaturas](https://github.com/MagnosLima/eleicoes-2026-rn/actions/workflows/atualizar-candidatos.yml/badge.svg)](https://github.com/MagnosLima/eleicoes-2026-rn/actions/workflows/atualizar-candidatos.yml)
 
@@ -10,6 +11,28 @@ Guia eleitoral independente que reúne, em uma interface acessível e responsiva
 
 ![Prévia do guia Candidatos 2026 — Rio Grande do Norte](assets/og-eleicoes-2026-rn.png)
 
+## Destaque: cola eleitoral interativa
+
+A pessoa pode montar sua própria cola seguindo exatamente a ordem das seis escolhas exibidas na urna:
+
+1. deputado federal;
+2. deputado estadual;
+3. senador — primeira vaga;
+4. senador — segunda vaga;
+5. governador e vice-governador;
+6. presidente e vice-presidente da República.
+
+O fluxo foi projetado para celular e permite buscar cada candidatura por nome, número ou partido. Ao final, a cola pode ser:
+
+- baixada como imagem;
+- impressa ou salva como PDF;
+- compartilhada pelo WhatsApp ou pelo menu nativo do dispositivo;
+- retomada posteriormente no mesmo navegador.
+
+As escolhas são armazenadas somente no `localStorage` do dispositivo. O projeto não exige cadastro, não utiliza banco de dados para essa função e não envia as escolhas ao servidor.
+
+> **No dia da votação:** imprima ou anote a cola em papel. Conforme a [orientação do TSE](https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/por-dentro-das-eleicoes-confira-as-regras-para-o-dia-da-votacao), celulares e outros equipamentos eletrônicos não podem entrar na cabine.
+
 ## Recursos
 
 - Busca por nome, número, partido, coligação ou vice.
@@ -17,11 +40,9 @@ Guia eleitoral independente que reúne, em uma interface acessível e responsiva
 - Situação atual da candidatura e redes sociais declaradas ao TSE.
 - Fotos oficiais com alternativa textual quando a imagem não está disponível.
 - Layout responsivo, navegação por teclado e versão otimizada para impressão.
-- Montagem guiada de cola eleitoral na ordem oficial da urna.
-- Cola salva somente no navegador, com exportação em imagem, impressão/PDF e compartilhamento.
+- Montagem guiada de cola eleitoral na ordem oficial da urna, com bloqueio de repetição entre as duas vagas do Senado.
+- Cola salva somente no navegador, com exportação em imagem, impressão/PDF e compartilhamento pelo WhatsApp.
 - Cópia local de contingência para indisponibilidades externas.
-
-As escolhas da cola usam `localStorage`: não exigem conta, banco de dados ou função no servidor e não são enviadas pelo site. Por segurança, a página orienta a imprimir a cola, pois aparelhos eletrônicos não podem entrar na cabine de votação.
 
 ## Atualização automática
 
