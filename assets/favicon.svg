@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Eleições 2026 RN">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="58" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7658ff"/>
+      <stop offset=".52" stop-color="#6548f5"/>
+      <stop offset="1" stop-color="#35d6c7"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="20" y1="8" x2="50" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#17152f"/>
+  <rect x="3" y="3" width="58" height="58" rx="14" fill="url(#bg)"/>
+  <path d="M17 3h30c7.7 0 14 6.3 14 14v7C43 25 27 17 17 3Z" fill="url(#shine)"/>
+  <path d="M47.5 14.5 51 18l-9.5 9.5-5-5L40 19l1.5 1.5 6-6Z" fill="#b9fff5" opacity=".9"/>
+  <text x="32" y="43" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="900" letter-spacing="-1.2" text-anchor="middle">RN</text>
+</svg>
