@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-09-25T15:27:42.273Z",
-  "sourceGeneratedAt": "25/09/2026 08:30:09",
+  "fetchedAt": "2026-09-25T19:27:30.091Z",
+  "sourceGeneratedAt": "25/09/2026 12:30:50",
   "sourceMode": "DivulgaCand",
   "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026",
   "counts": {
@@ -39,9 +39,9 @@
       "v": "CLEUSA SANTOS",
       "vp": "PCB",
       "ig": [
-        "https://www.instagram.com/PCBPARTIDAO",
+        "https://www.instagram.com/EDPCB/",
         "https://www.instagram.com/JORNALOPODERPOPULAR",
-        "https://www.instagram.com/EDPCB/"
+        "https://www.instagram.com/PCBPARTIDAO"
       ]
     },
     {
@@ -73,8 +73,8 @@
       "v": "ALFREDO GASPAR",
       "vp": "PL",
       "ig": [
-        "https://www.instagram.com/FLAVIOBOLSONARO/",
-        "https://www.instagram.com/tvcelular.com.br"
+        "https://www.instagram.com/tvcelular.com.br",
+        "https://www.instagram.com/FLAVIOBOLSONARO/"
       ]
     },
     {
@@ -123,14 +123,14 @@
       "v": "GERALDO ALCKMIN",
       "vp": "PSB",
       "ig": [
-        "https://www.instagram.com/pode_espalhar",
-        "https://www.instagram.com/lulaversoficial",
-        "https://www.instagram.com/comitepopularoficial",
-        "https://instagram.com/brasilquermais",
         "https://www.instagram.com/evangelicoscomlula",
+        "https://instagram.com/brasilquermais",
         "https://www.instagram.com/geracaolula",
+        "https://www.instagram.com/pode_espalhar",
+        "https://instagram.com/BRASILCOMLULA",
+        "https://www.instagram.com/comitepopularoficial",
         "https://www.instagram.com/LULAOFICIAL?IGSH=NGRIZTRVMND4ZTJS",
-        "https://instagram.com/BRASILCOMLULA"
+        "https://www.instagram.com/lulaversoficial"
       ]
     },
     {
@@ -162,13 +162,13 @@
       "v": "CORONEL MEDINA",
       "vp": "MISSÃO",
       "ig": [
-        "https://www.instagram.com/nextfragments/",
         "https://www.instagram.com/oncaviral/",
-        "https://www.instagram.com/renansantosmbl/",
         "https://www.instagram.com/jaguatiricahub/",
-        "https://www.instagram.com/blackjaguarsquad/",
+        "https://www.instagram.com/nextfragments/",
+        "https://www.instagram.com/multiversoamarelo/",
         "https://www.instagram.com/renanvote14",
-        "https://www.instagram.com/multiversoamarelo/"
+        "https://www.instagram.com/blackjaguarsquad/",
+        "https://www.instagram.com/renansantosmbl/"
       ]
     },
     {
@@ -233,11 +233,11 @@
       "vp": "DEMOCRATA",
       "ig": [
         "https://www.instagram.com/WILSONGRASSIGUARULHOS/",
-        "https://www.instagram.com/WWGRASSI/",
-        "https://www.instagram.com/CACHORREIROSDESAOPAULO/",
         "https://www.instagram.com/VETERINARIOWILSONGRASSIOFICIAL/",
         "https://www.instagram.com/GATEIROSDABAHIA/",
-        "https://www.instagram.com/GATEIROSDESAOPAULO/"
+        "https://www.instagram.com/WWGRASSI/",
+        "https://www.instagram.com/GATEIROSDESAOPAULO/",
+        "https://www.instagram.com/CACHORREIROSDESAOPAULO/"
       ]
     },
     {
@@ -269,9 +269,9 @@
       "v": "HERMANO",
       "vp": "MDB",
       "ig": [
-        "https://instagram.com/167RAZOESRN",
         "https://instagram.com/NATALQUEACREDITA",
-        "https://www.instagram.com/ALLYSONBEZERRA.RN"
+        "https://www.instagram.com/ALLYSONBEZERRA.RN",
+        "https://instagram.com/167RAZOESRN"
       ]
     },
     {
@@ -358,7 +358,7 @@
       "n": "GODEIRO LINHARESS",
       "p": "DC",
       "num": "27",
-      "s": "Pendente de julgamento",
+      "s": "Deferido",
       "col": "DC",
       "id": "200002554482",
       "uf": "RN",
@@ -458,7 +458,7 @@
       "n": "LINHARES JIBOIA",
       "p": "DC",
       "num": "277",
-      "s": "Indeferido",
+      "s": "Renúncia",
       "col": "DC",
       "id": "200002550225",
       "uf": "RN",
@@ -476,8 +476,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002542484_div.jpg",
       "ig": [
-        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0",
-        "https://www.instagram.com/LUCIANAMANDU16?IGSH=NZJVCZZJCWLZMWNS"
+        "https://www.instagram.com/LUCIANAMANDU16?IGSH=NZJVCZZJCWLZMWNS",
+        "https://www.instagram.com/PSTU_RN?IGSH=ZXBOCHZKAXU0Z3D0"
       ]
     },
     {
@@ -574,8 +574,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002534448_div.jpg",
       "ig": [
-        "https://www.instagram.com/CAPITAOSTYVENSONSENADOR?IGSH=DDCZNM14YNDTYMY3",
-        "https://www.instagram.com/SENADORSTYVENSONVALENTIM?IGSH=MWJ6BHRSZGZXDDDWNG=="
+        "https://www.instagram.com/SENADORSTYVENSONVALENTIM?IGSH=MWJ6BHRSZGZXDDDWNG==",
+        "https://www.instagram.com/CAPITAOSTYVENSONSENADOR?IGSH=DDCZNM14YNDTYMY3"
       ]
     },
     {
@@ -637,7 +637,7 @@
       "n": "ADELITA OLIVEIRA",
       "p": "DC",
       "num": "2799",
-      "s": "Deferido",
+      "s": "Renúncia",
       "col": "DC",
       "id": "200002552147",
       "uf": "RN",
@@ -723,8 +723,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547277_div.jpg",
       "ig": [
-        "https://www.instagram.com/anaclaragurgel14",
-        "https://www.instagram.com/anaclaragurgel14?igsi=dWVobnAxNG5pbmti&utm_source=qr"
+        "https://www.instagram.com/anaclaragurgel14?igsi=dWVobnAxNG5pbmti&utm_source=qr",
+        "https://www.instagram.com/anaclaragurgel14"
       ]
     },
     {
@@ -784,7 +784,7 @@
       "n": "ATAANDRA ABRANTES",
       "p": "PSDB",
       "num": "4588",
-      "s": "Deferido",
+      "s": "Renúncia",
       "col": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
       "id": "200002538217",
       "uf": "RN",
@@ -990,8 +990,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002546775_div.jpg",
       "ig": [
-        "https://www.instagram.com/STUDIODEBORAHSUELLEN?IGSH=MWPSNGZRNW80ZHC2DQ==",
         "https://www.instagram.com/DEBORAHSUELLEN21?IGSH=MTDPZJHYADFVAJFXMW==",
+        "https://www.instagram.com/STUDIODEBORAHSUELLEN?IGSH=MWPSNGZRNW80ZHC2DQ==",
         "https://www.instagram.com/DEBORAHSUELLEN28?IGSH=MWV3Z2M1M2XHC3Z4ZW=="
       ]
     },
@@ -1062,9 +1062,9 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547284_div.jpg",
       "ig": [
-        "https://www.instagram.com/drsalomaorn",
         "https://instagram.com/drmissaorn14",
         "https://instagram.com/drsalomaorn",
+        "https://www.instagram.com/drsalomaorn",
         "https://instagram.com/drsalomao14"
       ]
     },
@@ -1146,9 +1146,9 @@
       "photo": "fotos/FRN200002535716_div.jpg",
       "ig": [
         "https://www.instagram.com/FAUSTINOBR_",
-        "https://www.instagram.com/FAUSTINORN?IGSH=MTCZNNVUANJZCXM5BQ==",
         "https://www.instagram.com/FAUSTINOBR_?IGSH=MXRUOWPSMDI5ZGNV",
-        "https://www.instagram.com/FNNEWS_BR?IGSH=MTN2ZHJSCTAYC295MG=="
+        "https://www.instagram.com/FNNEWS_BR?IGSH=MTN2ZHJSCTAYC295MG==",
+        "https://www.instagram.com/FAUSTINORN?IGSH=MTCZNNVUANJZCXM5BQ=="
       ]
     },
     {
@@ -1162,8 +1162,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547279_div.jpg",
       "ig": [
-        "https://www.instagram.com/FELIXSANTOS.RN?IGSH=ZWQXCGRZNHP6CNJ2",
-        "https://instagram.com/felixsantos.rn"
+        "https://instagram.com/felixsantos.rn",
+        "https://www.instagram.com/FELIXSANTOS.RN?IGSH=ZWQXCGRZNHP6CNJ2"
       ]
     },
     {
@@ -1231,9 +1231,9 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547283_div.jpg",
       "ig": [
-        "https://www.instagram.com/botelhocortes/",
         "https://www.instagram.com/GABRIELBOTELHORN?IGSH=MW4ZA2JXDMTQADG3MG%3D%3D&UTM_SOURCE=QR",
-        "https://instagram.com/gabrielbotelhorn"
+        "https://instagram.com/gabrielbotelhorn",
+        "https://www.instagram.com/botelhocortes/"
       ]
     },
     {
@@ -1637,7 +1637,7 @@
       "n": "OMAR NOGUEIRA",
       "p": "AVANTE",
       "num": "7000",
-      "s": "Deferido",
+      "s": "Renúncia",
       "col": "AVANTE",
       "id": "200002551421",
       "uf": "RN",
@@ -1657,8 +1657,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002551425_div.jpg",
       "ig": [
-        "https://www.instagram.com/circodofuxiquinho?igsh=MW5oNXYyZ2gyenY0bw==",
         "https://www.instagram.com/fuxiquinhoreserva?igsh=MTJ4aGJleGN1MHdkZg==",
+        "https://www.instagram.com/circodofuxiquinho?igsh=MW5oNXYyZ2gyenY0bw==",
         "https://www.instagram.com/fuxiquinhofc_?igsh=cW1qeHA2dXZ0NzRu"
       ]
     },
@@ -1667,7 +1667,7 @@
       "n": "PASTOR JÚLIO NETO",
       "p": "DC",
       "num": "2711",
-      "s": "Deferido",
+      "s": "Renúncia",
       "col": "DC",
       "id": "200002552145",
       "uf": "RN",
@@ -1751,8 +1751,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002546759_div.jpg",
       "ig": [
-        "https://www.instagram.com/PEDROCHE_PEDROPAULO?IGSH=ANV0EWJUBHHZOXJJ",
-        "https://www.instagram.com/PEDROPAULOCMATTOS?IGSH=MXVHNMP6Z3M0MMTNDA%3D%3D"
+        "https://www.instagram.com/PEDROPAULOCMATTOS?IGSH=MXVHNMP6Z3M0MMTNDA%3D%3D",
+        "https://www.instagram.com/PEDROCHE_PEDROPAULO?IGSH=ANV0EWJUBHHZOXJJ"
       ]
     },
     {
@@ -1832,9 +1832,9 @@
       "uf": "RN",
       "photo": "fotos/FRN200002546765_div.jpg",
       "ig": [
-        "https://www.instagram.com/SAMELAGOMES_TERAPEUTA",
         "https://www.instagram.com/SAMELAGOMESOFICIAL",
-        "https://www.instagram.com/SAMELATERAPEUTADEMULHERES"
+        "https://www.instagram.com/SAMELATERAPEUTADEMULHERES",
+        "https://www.instagram.com/SAMELAGOMES_TERAPEUTA"
       ]
     },
     {
@@ -1876,8 +1876,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002533871_div.jpg",
       "ig": [
-        "https://www.instagram.com/raposinha6513/",
-        "https://www.instagram.com/raposinha6513_/"
+        "https://www.instagram.com/raposinha6513_/",
+        "https://www.instagram.com/raposinha6513/"
       ]
     },
     {
@@ -2105,8 +2105,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002552144_div.jpg",
       "ig": [
-        "https://www.instagram.com/XEXEUDENATAL/",
-        "https://www.instagram.com/XEXEUDENATALL/"
+        "https://www.instagram.com/XEXEUDENATALL/",
+        "https://www.instagram.com/XEXEUDENATAL/"
       ]
     },
     {
@@ -2216,8 +2216,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002534348_div.jpg",
       "ig": [
-        "https://www.instagram.com/ANALUISA.RN/REELS/",
-        "https://www.instagram.com/analuisa.rn"
+        "https://www.instagram.com/analuisa.rn",
+        "https://www.instagram.com/ANALUISA.RN/REELS/"
       ]
     },
     {
@@ -2723,7 +2723,7 @@
       "n": "DRA KARINA PEREIRA",
       "p": "PSDB",
       "num": "45666",
-      "s": "Pendente de julgamento",
+      "s": "Deferido",
       "col": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
       "id": "200002554438",
       "uf": "RN",
@@ -2744,8 +2744,8 @@
       "photo": "fotos/FRN200002538231_div.jpg",
       "ig": [
         "https://www.instagram.com/dra.tatianecosta.oficial?stkn=cXAxd2Fub3VuOHE0",
-        "https://www.instagram.com/dra.tatianecosta.oficial",
-        "https://www.instagram.com/DOUTORATATI_COSTA/"
+        "https://www.instagram.com/DOUTORATATI_COSTA/",
+        "https://www.instagram.com/dra.tatianecosta.oficial"
       ]
     },
     {
@@ -2899,8 +2899,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547274_div.jpg",
       "ig": [
-        "https://www.instagram.com/fabiosilveira.rn",
-        "https://www.instagram.com/fabiosilveira.rn/"
+        "https://www.instagram.com/fabiosilveira.rn/",
+        "https://www.instagram.com/fabiosilveira.rn"
       ]
     },
     {
@@ -3357,8 +3357,8 @@
       "photo": "fotos/FRN200002535726_div.jpg",
       "ig": [
         "https://www.instagram.com/TIMEJULIOCESAR?IGSH=ZZB5DDFLAJE1NWN3",
-        "https://www.instagram.com/CHANNEL/ABYMTPEGDR7YEOV4/",
-        "https://www.instagram.com/EUSOUJULIOCESARCAMARARN?IGSH=MXBKAWZRNM5KA3FWZQ=="
+        "https://www.instagram.com/EUSOUJULIOCESARCAMARARN?IGSH=MXBKAWZRNM5KA3FWZQ==",
+        "https://www.instagram.com/CHANNEL/ABYMTPEGDR7YEOV4/"
       ]
     },
     {
@@ -3525,8 +3525,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002534350_div.jpg",
       "ig": [
-        "https://www.instagram.com/LUCIANOBARBOSARN?UTM_SOURCE=QR&IGSH=DTD0Y2PTMJNKCMFI",
-        "https://www.instagram.com/LUCIANOINCLUSAOEJUSTICA?UTM_SOURCE=QR&IGSH=MWPIOGFQOTC"
+        "https://www.instagram.com/LUCIANOINCLUSAOEJUSTICA?UTM_SOURCE=QR&IGSH=MWPIOGFQOTC",
+        "https://www.instagram.com/LUCIANOBARBOSARN?UTM_SOURCE=QR&IGSH=DTD0Y2PTMJNKCMFI"
       ]
     },
     {
@@ -3540,8 +3540,8 @@
       "uf": "RN",
       "photo": "fotos/FRN200002533885_div.jpg",
       "ig": [
-        "https://instagram.com/LUISEBSILVA",
-        "https://instagram.com/LUIZEDUARDO.RN"
+        "https://instagram.com/LUIZEDUARDO.RN",
+        "https://instagram.com/LUISEBSILVA"
       ]
     },
     {
@@ -3954,10 +3954,10 @@
       "uf": "RN",
       "photo": "fotos/FRN200002547275_div.jpg",
       "ig": [
+        "https://www.instagram.com/RAYFIGUEIREDORN?IGSH=MTZPN3HYMGRZEXLPAG==",
         "https://www.instagram.com/rayfigueiredorn14?igsi=MTUzaGloZ2pzNmg0",
         "https://instagram.com/rayfigueiredorn",
-        "https://www.instagram.com/rayfigueiredorn?igsi=MTZpN3hyMGRzeXlpag==",
-        "https://www.instagram.com/RAYFIGUEIREDORN?IGSH=MTZPN3HYMGRZEXLPAG=="
+        "https://www.instagram.com/rayfigueiredorn?igsi=MTZpN3hyMGRzeXlpag=="
       ]
     },
     {
